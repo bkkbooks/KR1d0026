@@ -1,0 +1,236 @@
+canonical_identifier: bkk:krp/KR1d0026/v1
+canonical_location: https://kanripo.org/bkk/KR1d0026/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 儀禮
+  identifiers:
+    krp: KR1d0026
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR1d
+    tls-internal:
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR1d0026.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR1d0026_001.yaml, hash: 'sha256:102e3d15b03ebba9a8aad08aa895132e940eeeca33091df225fa4d817240e46e'}
+  - {seq: 2, filename: KR1d0026_002.yaml, hash: 'sha256:8c6ea23c9519de942b95d1e699a237ba4ced6cbcf28c8426c5e4d90ba9f6c7ca'}
+  - {seq: 3, filename: KR1d0026_003.yaml, hash: 'sha256:2a7f4d9a62d108e29d70c8080476440cf02da2be860802a671d13b099d31d471'}
+  - {seq: 4, filename: KR1d0026_004.yaml, hash: 'sha256:e341be79a0aaca0de099642732bbd17761be23762651ffe30928c07a9c249902'}
+  - {seq: 5, filename: KR1d0026_005.yaml, hash: 'sha256:0192a5c5c7840be11311da740847f80bc3f4a9e7fdcc03fea17646851a2876da'}
+  - {seq: 6, filename: KR1d0026_006.yaml, hash: 'sha256:570369bf880207d040aaa6fb613b9262fdff39c440c9d736db35fc3bc7c6d570'}
+  - {seq: 7, filename: KR1d0026_007.yaml, hash: 'sha256:5e17972975f72e36fcdb5b19bab6c29f0ab670a72a99256053e7aa9f82528155'}
+  - {seq: 8, filename: KR1d0026_008.yaml, hash: 'sha256:16cee264a1f6f96ddf2528cd48982ad97790fa8206df31c0ab4256fb866cde33'}
+  - {seq: 9, filename: KR1d0026_009.yaml, hash: 'sha256:60e4ef975c7342dcb8e78f1588d7a7b9016f935eb66270b7ee839b377c23990c'}
+  - {seq: 10, filename: KR1d0026_010.yaml, hash: 'sha256:fab3553c1f21ee07075f63668501700861a767ba9d5c917e8f2a5ae4c1eef991'}
+  - {seq: 11, filename: KR1d0026_011.yaml, hash: 'sha256:ddd1abe0c3ead9b6c00acc6ac43d0dcedf011822076494397db2a4f6c5d3a425'}
+  - {seq: 12, filename: KR1d0026_012.yaml, hash: 'sha256:900aba594523f88b0a1b6565321550db35ff1601f7e3d257eac859cdb2961b4f'}
+  - {seq: 13, filename: KR1d0026_013.yaml, hash: 'sha256:11a72a4ddd652630649e7c072f69e24bd9d32b8c8fcd80e4eaacf59cbe22e9c3'}
+  - {seq: 14, filename: KR1d0026_014.yaml, hash: 'sha256:9a560ec84b57896237fd4d9d24388b0300d6a32a33bf6b25bf51aa2abdd5a52e'}
+  - {seq: 15, filename: KR1d0026_015.yaml, hash: 'sha256:653f99fe03b5e0fd4bbfb0a149f03fa8e86b45db7f35ee205132c1a750b328cd'}
+  - {seq: 16, filename: KR1d0026_016.yaml, hash: 'sha256:693f2b10983b2a549ff86a71f77fb6558456a4fc7c6d802f96ee606105fa3056'}
+  - {seq: 17, filename: KR1d0026_017.yaml, hash: 'sha256:2aa020466e59d24be3d5cdc4f75a2a1d2babc805d1d77efd312e3c464b579731'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1d0026_001.markers.yaml, hash: 'sha256:9c112c984ab4585c557af73403d5abe02d5c3ecc6d14acc7fb57530dbfb2384e'}
+  - {seq: 2, role: markers, filename: assets/KR1d0026_002.markers.yaml, hash: 'sha256:e7f1d334e90769930efc2cfa85aa33efb4e84fa1f746037d25796e2ab9a78ff7'}
+  - {seq: 3, role: markers, filename: assets/KR1d0026_003.markers.yaml, hash: 'sha256:e467dfd4cb956d0e28e959d0ff0fb87ad7cc4d20c72c0e0cec68ed6fcee93825'}
+  - {seq: 4, role: markers, filename: assets/KR1d0026_004.markers.yaml, hash: 'sha256:1c1eaf9effaaf2c0e42e5d24d21d4f4d370f6df12717dfeeab41126455618ce0'}
+  - {seq: 5, role: markers, filename: assets/KR1d0026_005.markers.yaml, hash: 'sha256:c9ab83596c9d568ec0076f66ed14f062a5965b5b591e5f24cdcc7fe59fa845ea'}
+  - {seq: 6, role: markers, filename: assets/KR1d0026_006.markers.yaml, hash: 'sha256:90014b5b178267fb0beec2895790fb1a4aa57cf49345516bb57ea5c476530e67'}
+  - {seq: 7, role: markers, filename: assets/KR1d0026_007.markers.yaml, hash: 'sha256:8b0c1b4bb1f96d281fa428aa53ba60f16140b1deff4f3f349e8475769a17fd9f'}
+  - {seq: 8, role: markers, filename: assets/KR1d0026_008.markers.yaml, hash: 'sha256:a0bcb5d97fd2cee86d589ffd3eaa8251c5c5e5b57711f3a13980b13ac71f4d55'}
+  - {seq: 9, role: markers, filename: assets/KR1d0026_009.markers.yaml, hash: 'sha256:9adbc79979b4790aa3ebc854ff082d3ec634b6d2cc58fa25b55b5302c11f0c55'}
+  - {seq: 10, role: markers, filename: assets/KR1d0026_010.markers.yaml, hash: 'sha256:b67b6d5842ab36e90e7cf2caa1a79ad79586ea4c44cbb6745996f1fffbd9a47c'}
+  - {seq: 11, role: markers, filename: assets/KR1d0026_011.markers.yaml, hash: 'sha256:d88a2d6ab9c9706ce3307d02e17482c8661034074fe148bfc17dc436ab196700'}
+  - {seq: 12, role: markers, filename: assets/KR1d0026_012.markers.yaml, hash: 'sha256:b379ffaf77a9b183b18671e3a85b45db7c7f5f510c1ce719248fdf9d9203d6b0'}
+  - {seq: 13, role: markers, filename: assets/KR1d0026_013.markers.yaml, hash: 'sha256:20cf97be99c740c653b03df276a4cbf3ac981e6f03bbd9fdb1a3af8c331d361f'}
+  - {seq: 14, role: markers, filename: assets/KR1d0026_014.markers.yaml, hash: 'sha256:02dcd9cad0636cf87194c8570a62354ffa21ad0e3c88943cafd731323ee6ccfb'}
+  - {seq: 15, role: markers, filename: assets/KR1d0026_015.markers.yaml, hash: 'sha256:9bd1ed8e21e3461a577a99ce4710bd8282650de41420cb6b7f2ba12766d2fef1'}
+  - {seq: 16, role: markers, filename: assets/KR1d0026_016.markers.yaml, hash: 'sha256:d1c2dd188e845d6045a81ff873388b118a0b8b9cce5f63aefa11279282de567a'}
+  - {seq: 17, role: markers, filename: assets/KR1d0026_017.markers.yaml, hash: 'sha256:9191446af4444c69fa981340f3c7a31a53159ba3ff73f18a4669c310a1100b97'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1d0026_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1928
+  label: 士冠禮第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1d0026_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 2569
+  label: 士昏禮第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1d0026_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 1020
+  label: 士相見禮第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1d0026_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 2669
+  label: 鄉飲酒禮第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1d0026_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 6812
+  label: 鄉射禮第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1d0026_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3254
+  label: 燕禮第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1d0026_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 6926
+  label: 大射儀第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1d0026_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 5288
+  label: 聘禮第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1d0026_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 1768
+  label: 公食大夫禮第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR1d0026_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 850
+  label: 覲禮第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR1d0026_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 4455
+  label: 喪服第十一子夏傳
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR1d0026_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 3420
+  label: 士喪禮第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR1d0026_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 2536
+  label: 既夕禮第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR1d0026_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 2104
+  label: 士虞禮第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR1d0026_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 3450
+  label: 特牲饋食禮第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR1d0026_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 3025
+  label: 少牢饋食禮第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR1d0026_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 4860
+  label: 有司第十七
+  type: section
+  level: 1
+hash: sha256:03ddb5aa84bce1d17991331b455b7c406a12738f8e2077edf7e3971bd4b916ae
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

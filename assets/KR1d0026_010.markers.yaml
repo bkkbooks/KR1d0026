@@ -1,0 +1,706 @@
+canonical_identifier: bkk:krp/KR1d0026/bkk/v1/markers/10
+seq: 10
+markers:
+  front:
+  - {type: variant, offset: 0, length: 1, content: 覲, SBCK: 儀}
+  - {type: page-break, offset: 0, content: '', id: KR1d0026_SBCK_010-1a}
+  - {type: variant, offset: 0, length: 1, content: 覲, krp: 儀}
+  body:
+  - {type: punctuation, offset: 0, content: 〈, id: KR1d0026_CHANT_010-bkkpn1}
+  - {type: punctuation, offset: 2, content: 〉, id: KR1d0026_CHANT_010-bkkpn2}
+  - {type: variant, offset: 2, length: 0, content: '', SBCK: 卷}
+  - {type: variant, offset: 2, length: 0, content: '', krp: 卷}
+  - {type: xml-element, offset: 4, content: '', id: KR1d0026_CHANT_010-bkkxmlele1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR1d0026_CHANT_010-1a.1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR1d0026_CHANT_010-1a.2}
+  - {type: xml-element, offset: 8, content: '', id: KR1d0026_CHANT_010-bkkxmlele2}
+  - {type: xml-element, offset: 8, content: '', id: KR1d0026_CHANT_010-bkkxmlele3}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR1d0026_CHANT_010-1a.3}
+  - {type: variant, offset: 8, length: 0, content: '', SBCK: 儀禮鄭氏注}
+  - {type: variant, offset: 8, length: 0, content: '', krp: 儀禮鄭氏注}
+  - {type: punctuation, offset: 10, content: ：, id: KR1d0026_CHANT_010-bkkpn3}
+  - {type: xml-element, offset: 10, content: '', id: KR1d0026_CHANT_010-bkkxmlele4}
+  - {type: xml-element, offset: 10, content: '', id: KR1d0026_CHANT_010-bkkxmlele5}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR1d0026_CHANT_010-1a.4}
+  - {type: punctuation, offset: 13, content: ，, id: KR1d0026_CHANT_010-bkkpn4}
+  - {type: 'tls:seg', offset: 13, content: '', id: KR1d0026_CHANT_010-1a.5}
+  - {type: substitution, offset: 17, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4457}}
+  - {type: punctuation, offset: 21, content: 。, id: KR1d0026_CHANT_010-bkkpn5}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR1d0026_CHANT_010-1a.6}
+  - {type: substitution, offset: 25, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4457}}
+  - {type: punctuation, offset: 32, content: ，, id: KR1d0026_CHANT_010-bkkpn6}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR1d0026_CHANT_010-1a.7}
+  - {type: punctuation, offset: 34, content: 。, id: KR1d0026_CHANT_010-bkkpn7}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR1d0026_CHANT_010-1a.8}
+  - {type: variant, offset: 34, length: 0, content: '', SBCK: 郊謂近郊去王城五十里小行人職曰凡諸侯入王則迎勞于畿則郊勞者大行人也皮弁者天子之朝朝服也璧無束帛者天子之玉尊也不言諸侯言侯氏者明國殊舎異禮不凡之也郊舎狹寡爲帷宫以受勞掌舎職曰爲帷官設旌門}
+  - {type: variant, offset: 34, length: 0, content: '', krp: 郊謂近郊去王城五十里小行人職曰凡諸侯入王則迎勞于畿則郊勞者大行人也皮弁者天子之朝朝服也璧無束帛者天子之玉尊也不言諸侯言侯氏者明國殊舎異禮不凡之也郊舎狹寡爲帷宫以受勞掌舎職曰爲帷官設旌門}
+  - {type: substitution, offset: 37, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 39, content: ，, id: KR1d0026_CHANT_010-bkkpn8}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR1d0026_CHANT_010-1a.9}
+  - {type: punctuation, offset: 42, content: ，, id: KR1d0026_CHANT_010-bkkpn9}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR1d0026_CHANT_010-1a.10}
+  - {type: punctuation, offset: 44, content: 。, id: KR1d0026_CHANT_010-bkkpn10}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR1d0026_CHANT_010-1a.11}
+  - {type: punctuation, offset: 47, content: ，, id: KR1d0026_CHANT_010-bkkpn11}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR1d0026_CHANT_010-1a.12}
+  - {type: punctuation, offset: 51, content: ，, id: KR1d0026_CHANT_010-bkkpn12}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR1d0026_CHANT_010-1a.13}
+  - {type: punctuation, offset: 53, content: 。, id: KR1d0026_CHANT_010-bkkpn13}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR1d0026_CHANT_010-1a.14}
+  - {type: punctuation, offset: 56, content: ，, id: KR1d0026_CHANT_010-bkkpn14}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR1d0026_CHANT_010-1a.15}
+  - {type: punctuation, offset: 58, content: ，, id: KR1d0026_CHANT_010-bkkpn15}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR1d0026_CHANT_010-1a.16}
+  - {type: punctuation, offset: 59, content: ，, id: KR1d0026_CHANT_010-bkkpn16}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR1d0026_CHANT_010-1a.17}
+  - {type: punctuation, offset: 63, content: ，, id: KR1d0026_CHANT_010-bkkpn17}
+  - {type: 'tls:seg', offset: 63, content: '', id: KR1d0026_CHANT_010-1a.18}
+  - {type: page-break, offset: 64, content: '', id: KR1d0026_SBCK_010-1b}
+  - {type: punctuation, offset: 67, content: 。, id: KR1d0026_CHANT_010-bkkpn18}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR1d0026_CHANT_010-1a.19}
+  - {type: variant, offset: 67, length: 0, content: '', SBCK: 不荅拜者爲人使不當其禮也不讓先升奉王命尊也升者升壇使者東靣致命侯氏東階上西面聽之}
+  - {type: variant, offset: 67, length: 0, content: '', krp: 不荅拜者爲人使不當其禮也不讓先升奉王命尊也升者升壇使者東靣致命侯氏東階上西面聽之}
+  - {type: punctuation, offset: 73, content: ，, id: KR1d0026_CHANT_010-bkkpn19}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR1d0026_CHANT_010-1a.20}
+  - {type: punctuation, offset: 77, content: ，, id: KR1d0026_CHANT_010-bkkpn20}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR1d0026_CHANT_010-1a.21}
+  - {type: punctuation, offset: 80, content: 。, id: KR1d0026_CHANT_010-bkkpn21}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR1d0026_CHANT_010-1a.22}
+  - {type: punctuation, offset: 83, content: ，, id: KR1d0026_CHANT_010-bkkpn22}
+  - {type: 'tls:seg', offset: 83, content: '', id: KR1d0026_CHANT_010-1a.23}
+  - {type: punctuation, offset: 87, content: ，, id: KR1d0026_CHANT_010-bkkpn23}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR1d0026_CHANT_010-1a.24}
+  - {type: punctuation, offset: 91, content: 。, id: KR1d0026_CHANT_010-bkkpn24}
+  - {type: 'tls:seg', offset: 91, content: '', id: KR1d0026_CHANT_010-1a.25}
+  - {type: variant, offset: 91, length: 0, content: '', SBCK: 左還還南面示將去也立者見侯氏將有事於巳俟之也還玉重禮}
+  - {type: variant, offset: 91, length: 0, content: '', krp: 左還還南面示將去也立者見侯氏將有事於巳俟之也還玉重禮}
+  - {type: punctuation, offset: 97, content: ，, id: KR1d0026_CHANT_010-bkkpn25}
+  - {type: 'tls:seg', offset: 97, content: '', id: KR1d0026_CHANT_010-1a.26}
+  - {type: punctuation, offset: 101, content: 。, id: KR1d0026_CHANT_010-bkkpn26}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR1d0026_CHANT_010-1a.27}
+  - {type: punctuation, offset: 107, content: 。, id: KR1d0026_CHANT_010-bkkpn27}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR1d0026_CHANT_010-1a.28}
+  - {type: punctuation, offset: 111, content: ，, id: KR1d0026_CHANT_010-bkkpn28}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR1d0026_CHANT_010-1a.29}
+  - {type: punctuation, offset: 113, content: 。, id: KR1d0026_CHANT_010-bkkpn29}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR1d0026_CHANT_010-1a.30}
+  - {type: punctuation, offset: 118, content: ；, id: KR1d0026_CHANT_010-bkkpn30}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR1d0026_CHANT_010-1a.31}
+  - {type: punctuation, offset: 122, content: ，, id: KR1d0026_CHANT_010-bkkpn31}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR1d0026_CHANT_010-1a.32}
+  - {type: substitution, offset: 122, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 124, content: 。, id: KR1d0026_CHANT_010-bkkpn32}
+  - {type: 'tls:seg', offset: 124, content: '', id: KR1d0026_CHANT_010-1a.33}
+  - {type: variant, offset: 126, length: 0, content: '', SBCK: 先升賔禮綂焉几者安賔所以崇優厚也上介出止使者則巳布席也侯氏}
+  - {type: variant, offset: 126, length: 0, content: '', krp: 先升賔禮綂焉几者安賔所以崇優厚也上介出止使者則巳布席也侯氏}
+  - {type: punctuation, offset: 129, content: 、, id: KR1d0026_CHANT_010-bkkpn33}
+  - {type: variant, offset: 129, length: 1, content: 乘, SBCK: 乗}
+  - {type: variant, offset: 129, length: 1, content: 乘, krp: 乗}
+  - {type: punctuation, offset: 134, content: ，, id: KR1d0026_CHANT_010-bkkpn34}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR1d0026_CHANT_010-1a.34}
+  - {type: punctuation, offset: 139, content: 。, id: KR1d0026_CHANT_010-bkkpn35}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR1d0026_CHANT_010-1a.35}
+  - {type: punctuation, offset: 145, content: 。, id: KR1d0026_CHANT_010-bkkpn36}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR1d0026_CHANT_010-1a.36}
+  - {type: variant, offset: 145, length: 0, content: '', SBCK: 儐使者所以致尊敬也拜者各於其階}
+  - {type: page-break, offset: 145, content: '', id: KR1d0026_SBCK_010-2a}
+  - {type: variant, offset: 145, length: 0, content: '', krp: 儐使者所以致尊敬也拜者各於其階}
+  - {type: punctuation, offset: 148, content: ，, id: KR1d0026_CHANT_010-bkkpn37}
+  - {type: 'tls:seg', offset: 148, content: '', id: KR1d0026_CHANT_010-1a.37}
+  - {type: punctuation, offset: 152, content: 。, id: KR1d0026_CHANT_010-bkkpn38}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR1d0026_CHANT_010-1a.38}
+  - {type: punctuation, offset: 158, content: ，, id: KR1d0026_CHANT_010-bkkpn39}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR1d0026_CHANT_010-1a.39}
+  - {type: punctuation, offset: 160, content: 。, id: KR1d0026_CHANT_010-bkkpn40}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR1d0026_CHANT_010-1a.40}
+  - {type: punctuation, offset: 165, content: 。, id: KR1d0026_CHANT_010-bkkpn41}
+  - {type: xml-element, offset: 165, content: '', id: KR1d0026_CHANT_010-bkkxmlele6}
+  - {type: xml-element, offset: 165, content: '', id: KR1d0026_CHANT_010-bkkxmlele7}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR1d0026_CHANT_010-2a.1}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR1d0026_CHANT_010-2a.2}
+  - {type: variant, offset: 165, length: 0, content: '', SBCK: 騑馬曰驂左驂設在西者其餘二馬侯氏之士遂以出授使者之從者于外從之者遂隨使者以至朝}
+  - {type: variant, offset: 165, length: 0, content: '', krp: 騑馬曰驂左驂設在西者其餘二馬侯氏之士遂以出授使者之從者于外從之者遂隨使者以至朝}
+  - {type: variant, offset: 168, length: 1, content: 舍, SBCK: 舎以其新至道路勞苦未受其禮且使即安也賜舎猶致館也所使者司空與小行人爲承擯今文賜作錫}
+  - {type: variant, offset: 168, length: 1, content: 舍, krp: 舎以其新至道路勞苦未受其禮且使即安也賜舎猶致館也所使者司空與小行人爲承擯今文賜作錫}
+  - {type: punctuation, offset: 169, content: 。, id: KR1d0026_CHANT_010-bkkpn42}
+  - {type: 'tls:seg', offset: 169, content: '', id: KR1d0026_CHANT_010-2a.3}
+  - {type: punctuation, offset: 170, content: ：, id: KR1d0026_CHANT_010-bkkpn43}
+  - {type: 'tls:seg', offset: 170, content: '', id: KR1d0026_CHANT_010-2a.4}
+  - {type: punctuation, offset: 170, content: 「, id: KR1d0026_CHANT_010-bkkpn44}
+  - {type: punctuation, offset: 172, content: ，, id: KR1d0026_CHANT_010-bkkpn45}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR1d0026_CHANT_010-2a.5}
+  - {type: punctuation, offset: 178, content: 。, id: KR1d0026_CHANT_010-bkkpn46}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR1d0026_CHANT_010-2a.6}
+  - {type: variant, offset: 181, length: 1, content: 舍, SBCK: 舎此使者致館辭}
+  - {type: variant, offset: 181, length: 1, content: 舍, krp: 舎此使者致館辭}
+  - {type: punctuation, offset: 182, content: ！, id: KR1d0026_CHANT_010-bkkpn47}
+  - {type: punctuation, offset: 182, content: 」, id: KR1d0026_CHANT_010-bkkpn48}
+  - {type: 'tls:seg', offset: 182, content: '', id: KR1d0026_CHANT_010-2a.7}
+  - {type: punctuation, offset: 188, content: ，, id: KR1d0026_CHANT_010-bkkpn49}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR1d0026_CHANT_010-2a.8}
+  - {type: variant, offset: 188, length: 0, content: '', SBCK: 受館}
+  - {type: variant, offset: 188, length: 0, content: '', krp: 受館}
+  - {type: punctuation, offset: 192, content: 、, id: KR1d0026_CHANT_010-bkkpn50}
+  - {type: variant, offset: 192, length: 1, content: 乘, SBCK: 乗}
+  - {type: variant, offset: 192, length: 1, content: 乘, krp: 乗}
+  - {type: punctuation, offset: 194, content: 。, id: KR1d0026_CHANT_010-bkkpn51}
+  - {type: xml-element, offset: 194, content: '', id: KR1d0026_CHANT_010-bkkxmlele8}
+  - {type: xml-element, offset: 194, content: '', id: KR1d0026_CHANT_010-bkkxmlele9}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR1d0026_CHANT_010-2a.9}
+  - {type: variant, offset: 194, length: 0, content: '', SBCK: 王使人以命致館無禮猶擯之者尊王使也侯氏受館於外旣則儐使者於内}
+  - {type: variant, offset: 194, length: 0, content: '', krp: 王使人以命致館無禮猶擯之者尊王使也侯氏受館於外旣則儐使者於内}
+  - {type: punctuation, offset: 200, content: ，, id: KR1d0026_CHANT_010-bkkpn52}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR1d0026_CHANT_010-2a.10}
+  - {type: punctuation, offset: 201, content: ：, id: KR1d0026_CHANT_010-bkkpn53}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR1d0026_CHANT_010-2a.11}
+  - {type: punctuation, offset: 201, content: 「, id: KR1d0026_CHANT_010-bkkpn54}
+  - {type: punctuation, offset: 203, content: ，, id: KR1d0026_CHANT_010-bkkpn55}
+  - {type: 'tls:seg', offset: 203, content: '', id: KR1d0026_CHANT_010-2a.12}
+  - {type: punctuation, offset: 209, content: 。, id: KR1d0026_CHANT_010-bkkpn56}
+  - {type: punctuation, offset: 209, content: 」, id: KR1d0026_CHANT_010-bkkpn57}
+  - {type: 'tls:seg', offset: 209, content: '', id: KR1d0026_CHANT_010-2a.13}
+  - {type: variant, offset: 209, length: 0, content: '', SBCK: 大夫者卿爲訝者也掌訝職曰凡訝者賔客至而徃詔相其事戒猶告也其爲告使順循其事也􅀄猶故也今文帥作率}
+  - {type: page-break, offset: 209, content: '', id: KR1d0026_SBCK_010-2b}
+  - {type: variant, offset: 209, length: 0, content: '', krp: 大夫者卿爲訝者也掌訝職曰凡訝者賔客至而徃詔相其事戒猶告也其爲告使順循其事也𥘉猶故也今文帥作率}
+  - {type: punctuation, offset: 215, content: 。, id: KR1d0026_CHANT_010-bkkpn58}
+  - {type: xml-element, offset: 215, content: '', id: KR1d0026_CHANT_010-bkkxmlele10}
+  - {type: xml-element, offset: 215, content: '', id: KR1d0026_CHANT_010-bkkxmlele11}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR1d0026_CHANT_010-3a.1}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR1d0026_CHANT_010-3a.2}
+  - {type: variant, offset: 215, length: 0, content: '', SBCK: 受覲日也}
+  - {type: variant, offset: 215, length: 0, content: '', krp: 受覲日也}
+  - {type: punctuation, offset: 219, content: ，, id: KR1d0026_CHANT_010-bkkpn59}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR1d0026_CHANT_010-3a.3}
+  - {type: variant, offset: 221, length: 1, content: 舍, SBCK: 舎}
+  - {type: variant, offset: 221, length: 1, content: 舍, krp: 舎}
+  - {type: punctuation, offset: 224, content: 。, id: KR1d0026_CHANT_010-bkkpn60}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR1d0026_CHANT_010-3a.4}
+  - {type: punctuation, offset: 228, content: ，, id: KR1d0026_CHANT_010-bkkpn61}
+  - {type: 'tls:seg', offset: 228, content: '', id: KR1d0026_CHANT_010-3a.5}
+  - {type: punctuation, offset: 230, content: ；, id: KR1d0026_CHANT_010-bkkpn62}
+  - {type: 'tls:seg', offset: 230, content: '', id: KR1d0026_CHANT_010-3a.6}
+  - {type: punctuation, offset: 234, content: ，, id: KR1d0026_CHANT_010-bkkpn63}
+  - {type: 'tls:seg', offset: 234, content: '', id: KR1d0026_CHANT_010-3a.7}
+  - {type: punctuation, offset: 236, content: 。, id: KR1d0026_CHANT_010-bkkpn64}
+  - {type: xml-element, offset: 236, content: '', id: KR1d0026_CHANT_010-bkkxmlele12}
+  - {type: xml-element, offset: 236, content: '', id: KR1d0026_CHANT_010-bkkxmlele13}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR1d0026_CHANT_010-3a.8}
+  - {type: variant, offset: 236, length: 0, content: '', SBCK: 言諸侯者明來朝者衆矣顧其入覲不得並耳受舎於朝受次於文王廟門之外聘禮記曰宗人授次次以帷少退于君之次則是次也言舎者尊舎也天子使掌次爲之諸侯上介先朝受焉此覲也言朝者覲遇之禮雖簡其來之心猶􅀂朝也分别同姓異姓受之將有先後也春秋傳曰寡人􅀂朝于薛不敢與諸任齒則周禮先同姓}
+  - {type: variant, offset: 236, length: 0, content: '', krp: 言諸侯者明來朝者衆矣顧其入覲不得並耳受舎於朝受次於文王廟門之外聘禮記曰宗人授次次以帷少退于君之次則是次也言舎者尊舎也天子使掌次爲之諸侯上介先朝受焉此覲也言朝者覲遇之禮雖簡其來之心猶若朝也分别同姓異姓受之將有先後也春秋傳曰寡人若朝于薛不敢與諸任齒則周禮先同姓}
+  - {type: variant, offset: 238, length: 1, content: 裨, SBCK: 禆}
+  - {type: variant, offset: 238, length: 1, content: 裨, krp: 禆}
+  - {type: punctuation, offset: 240, content: ，, id: KR1d0026_CHANT_010-bkkpn65}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR1d0026_CHANT_010-3a.9}
+  - {type: punctuation, offset: 244, content: 。, id: KR1d0026_CHANT_010-bkkpn66}
+  - {type: 'tls:seg', offset: 244, content: '', id: KR1d0026_CHANT_010-3a.10}
+  - {type: variant, offset: 244, length: 1, content: 乘, SBCK: 將覲質明時也禪冕者衣禆衣而冠冕也禆之爲言埤也天子六服大裘爲上其餘爲禆以事尊卑服之而諸侯亦服焉上公衮無升龍侯伯鷩子男毳􅀌絺卿大夫玄此差司服所掌也禰謂行主遷主矣而云禰親之也釋幣者告將覲也其釋幣如聘大夫將受命釋幣于禰之禮旣則祝藏其幣歸乃埋之於祧西階之東乗}
+  - {type: page-break, offset: 244, content: '', id: KR1d0026_SBCK_010-3a}
+  - {type: variant, offset: 244, length: 1, content: 乘, krp: 將覲質明時也禪冕者衣禆衣而冠冕也禆之爲言埤也天子六服大裘爲上其餘爲禆以事尊卑服之而諸侯亦服焉上公衮無升龍侯伯鷩子男毳孤絺卿大夫玄此差司服所掌也禰謂行主遷主矣而云禰親之也釋幣者告將覲也其釋幣如聘大夫將受命釋幣于禰之禮旣則祝藏其幣歸乃埋之於祧西階之東乗}
+  - {type: punctuation, offset: 247, content: ，, id: KR1d0026_CHANT_010-bkkpn67}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR1d0026_CHANT_010-3a.11}
+  - {type: substitution, offset: 249, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1456}}
+  - {type: punctuation, offset: 250, content: 、, id: KR1d0026_CHANT_010-bkkpn68}
+  - {type: punctuation, offset: 252, content: ，, id: KR1d0026_CHANT_010-bkkpn69}
+  - {type: 'tls:seg', offset: 252, content: '', id: KR1d0026_CHANT_010-3a.12}
+  - {type: punctuation, offset: 254, content: ，, id: KR1d0026_CHANT_010-bkkpn70}
+  - {type: 'tls:seg', offset: 254, content: '', id: KR1d0026_CHANT_010-3a.13}
+  - {type: punctuation, offset: 257, content: ，, id: KR1d0026_CHANT_010-bkkpn71}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR1d0026_CHANT_010-3a.14}
+  - {type: punctuation, offset: 259, content: 。, id: KR1d0026_CHANT_010-bkkpn72}
+  - {type: xml-element, offset: 259, content: '', id: KR1d0026_CHANT_010-bkkxmlele14}
+  - {type: xml-element, offset: 259, content: '', id: KR1d0026_CHANT_010-bkkxmlele15}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR1d0026_CHANT_010-4a.1}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR1d0026_CHANT_010-4a.2}
+  - {type: variant, offset: 259, length: 0, content: '', SBCK: 墨車大夫制也乗之者入天子之國車服不可盡同也交龍爲旂諸侯之所建弧所以張縿之弓也弓衣曰韣瑞玉謂公桓圭侯信圭伯躬圭子榖璧男蒲璧繅所以藉玉以韋衣木廣袤各如其玉之大小以朱白蒼爲六色今文玉爲璧繅或爲璪}
+  - {type: variant, offset: 259, length: 0, content: '', krp: 墨車大夫制也乗之者入天子之國車服不可盡同也交龍爲旂諸侯之所建弧所以張縿之弓也弓衣曰韣瑞玉謂公桓圭侯信圭伯躬圭子榖璧男蒲璧繅所以藉玉以韋衣木廣袤各如其玉之大小以朱白蒼爲六色今文玉爲璧繅或爲璪}
+  - {type: variant, offset: 265, length: 1, content: 戶, SBCK: 戸}
+  - {type: variant, offset: 265, length: 1, content: 戶, krp: 戸}
+  - {type: variant, offset: 268, length: 1, content: 閒, SBCK: 間}
+  - {type: variant, offset: 268, length: 1, content: 閒, krp: 間}
+  - {type: punctuation, offset: 269, content: ，, id: KR1d0026_CHANT_010-bkkpn73}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR1d0026_CHANT_010-4a.3}
+  - {type: punctuation, offset: 272, content: 。, id: KR1d0026_CHANT_010-bkkpn74}
+  - {type: 'tls:seg', offset: 272, content: '', id: KR1d0026_CHANT_010-4a.4}
+  - {type: variant, offset: 272, length: 0, content: '', SBCK: 依如今綈素屏風也有屏斧文所以示威也斧謂之黼几玉几也左右者優至尊也其席莞席紛純加繅席畫純加次席黼純}
+  - {type: page-break, offset: 272, content: '', id: KR1d0026_SBCK_010-3b}
+  - {type: variant, offset: 272, length: 0, content: '', krp: 依如今綈素屏風也有屏斧文所以示威也斧謂之黼几玉几也左右者優至尊也其席莞席紛純加繅席畫純加次席黼純}
+  - {type: variant, offset: 274, length: 1, content: 袞, SBCK: 衮}
+  - {type: variant, offset: 274, length: 1, content: 袞, krp: 衮}
+  - {type: punctuation, offset: 276, content: ，, id: KR1d0026_CHANT_010-bkkpn75}
+  - {type: 'tls:seg', offset: 276, content: '', id: KR1d0026_CHANT_010-4a.5}
+  - {type: variant, offset: 276, length: 1, content: 負, SBCK: 􅀒}
+  - {type: punctuation, offset: 279, content: 。, id: KR1d0026_CHANT_010-bkkpn76}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR1d0026_CHANT_010-4a.6}
+  - {type: variant, offset: 279, length: 0, content: '', SBCK: 衮衣者禆之上也繢之繡之爲九章其龍天子有升龍有降龍衣此衣而冠冕南郷而立以俟諸侯見}
+  - {type: variant, offset: 279, length: 0, content: '', krp: 衮衣者禆之上也繢之繡之爲九章其龍天子有升龍有降龍衣此衣而冠冕南郷而立以俟諸侯見}
+  - {type: punctuation, offset: 283, content: ，, id: KR1d0026_CHANT_010-bkkpn77}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR1d0026_CHANT_010-4a.7}
+  - {type: punctuation, offset: 287, content: 。, id: KR1d0026_CHANT_010-bkkpn78}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR1d0026_CHANT_010-4a.8}
+  - {type: variant, offset: 287, length: 0, content: '', SBCK: 嗇夫蓋司空之屬也爲末擯承命於侯氏下介傳而上上擯以告天子天子見公擯者五人見侯伯擯者四人見子男擯者三人皆宗伯爲上擯春秋傳曰嗇夫馳}
+  - {type: variant, offset: 287, length: 0, content: '', krp: 嗇夫蓋司空之屬也爲末擯承命於侯氏下介傳而上上擯以告天子天子見公擯者五人見侯伯擯者四人見子男擯者三人皆宗伯爲上擯春秋傳曰嗇夫馳}
+  - {type: punctuation, offset: 290, content: ：, id: KR1d0026_CHANT_010-bkkpn79}
+  - {type: 'tls:seg', offset: 290, content: '', id: KR1d0026_CHANT_010-4a.9}
+  - {type: punctuation, offset: 290, content: 「, id: KR1d0026_CHANT_010-bkkpn80}
+  - {type: punctuation, offset: 292, content: ，, id: KR1d0026_CHANT_010-bkkpn81}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR1d0026_CHANT_010-4a.10}
+  - {type: punctuation, offset: 296, content: ，, id: KR1d0026_CHANT_010-bkkpn82}
+  - {type: 'tls:seg', offset: 296, content: '', id: KR1d0026_CHANT_010-4a.11}
+  - {type: substitution, offset: 296, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: punctuation, offset: 301, content: 。, id: KR1d0026_CHANT_010-bkkpn83}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR1d0026_CHANT_010-4a.12}
+  - {type: punctuation, offset: 305, content: ，, id: KR1d0026_CHANT_010-bkkpn84}
+  - {type: 'tls:seg', offset: 305, content: '', id: KR1d0026_CHANT_010-4a.13}
+  - {type: substitution, offset: 305, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: punctuation, offset: 311, content: 。, id: KR1d0026_CHANT_010-bkkpn85}
+  - {type: punctuation, offset: 311, content: 」, id: KR1d0026_CHANT_010-bkkpn86}
+  - {type: 'tls:seg', offset: 311, content: '', id: KR1d0026_CHANT_010-4a.14}
+  - {type: variant, offset: 311, length: 0, content: '', SBCK: 言非他者親之辭嘉之者美之辭也上擯又傅此而下至嗇夫侯氏之下介受之傳而上上介以告其君君乃許入今文實作寔嘉作賀}
+  - {type: variant, offset: 311, length: 0, content: '', krp: 言非他者親之辭嘉之者美之辭也上擯又傅此而下至嗇夫侯氏之下介受之傳而上上介以告其君君乃許入今文實作寔嘉作賀}
+  - {type: punctuation, offset: 316, content: ，, id: KR1d0026_CHANT_010-bkkpn87}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR1d0026_CHANT_010-4a.15}
+  - {type: punctuation, offset: 319, content: ，, id: KR1d0026_CHANT_010-bkkpn88}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR1d0026_CHANT_010-4a.16}
+  - {type: punctuation, offset: 323, content: 。, id: KR1d0026_CHANT_010-bkkpn89}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR1d0026_CHANT_010-4a.17}
+  - {type: variant, offset: 323, length: 0, content: '', SBCK: 入門右執臣道不敢由賔客位也卑者見尊奠摯而不授}
+  - {type: page-break, offset: 323, content: '', id: KR1d0026_SBCK_010-4a}
+  - {type: variant, offset: 323, length: 0, content: '', krp: 入門右執臣道不敢由賔客位也卑者見尊奠摯而不授}
+  - {type: punctuation, offset: 326, content: 。, id: KR1d0026_CHANT_010-bkkpn90}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR1d0026_CHANT_010-4a.18}
+  - {type: variant, offset: 326, length: 0, content: '', SBCK: 謁猶告也上擯告以天子前辭欲親受之如賔客也其辭所易者曰伯父其升}
+  - {type: variant, offset: 326, length: 0, content: '', krp: 謁猶告也上擯告以天子前辭欲親受之如賔客也其辭所易者曰伯父其升}
+  - {type: punctuation, offset: 331, content: ，, id: KR1d0026_CHANT_010-bkkpn91}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR1d0026_CHANT_010-4a.19}
+  - {type: punctuation, offset: 332, content: ，, id: KR1d0026_CHANT_010-bkkpn92}
+  - {type: 'tls:seg', offset: 332, content: '', id: KR1d0026_CHANT_010-4a.20}
+  - {type: punctuation, offset: 334, content: 。, id: KR1d0026_CHANT_010-bkkpn93}
+  - {type: 'tls:seg', offset: 334, content: '', id: KR1d0026_CHANT_010-4a.21}
+  - {type: punctuation, offset: 338, content: 。, id: KR1d0026_CHANT_010-bkkpn94}
+  - {type: 'tls:seg', offset: 338, content: '', id: KR1d0026_CHANT_010-4a.22}
+  - {type: punctuation, offset: 341, content: ，, id: KR1d0026_CHANT_010-bkkpn95}
+  - {type: 'tls:seg', offset: 341, content: '', id: KR1d0026_CHANT_010-4a.23}
+  - {type: punctuation, offset: 349, content: 。, id: KR1d0026_CHANT_010-bkkpn96}
+  - {type: 'tls:seg', offset: 349, content: '', id: KR1d0026_CHANT_010-4a.24}
+  - {type: punctuation, offset: 353, content: ，, id: KR1d0026_CHANT_010-bkkpn97}
+  - {type: 'tls:seg', offset: 353, content: '', id: KR1d0026_CHANT_010-4a.25}
+  - {type: punctuation, offset: 354, content: ：, id: KR1d0026_CHANT_010-bkkpn98}
+  - {type: 'tls:seg', offset: 354, content: '', id: KR1d0026_CHANT_010-4a.26}
+  - {type: punctuation, offset: 354, content: 「, id: KR1d0026_CHANT_010-bkkpn99}
+  - {type: punctuation, offset: 355, content: ！, id: KR1d0026_CHANT_010-bkkpn100}
+  - {type: punctuation, offset: 355, content: 」, id: KR1d0026_CHANT_010-bkkpn101}
+  - {type: 'tls:seg', offset: 355, content: '', id: KR1d0026_CHANT_010-4a.27}
+  - {type: punctuation, offset: 356, content: ，, id: KR1d0026_CHANT_010-bkkpn102}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR1d0026_CHANT_010-4a.28}
+  - {type: punctuation, offset: 358, content: ，, id: KR1d0026_CHANT_010-bkkpn103}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR1d0026_CHANT_010-4a.29}
+  - {type: punctuation, offset: 360, content: 。, id: KR1d0026_CHANT_010-bkkpn104}
+  - {type: xml-element, offset: 360, content: '', id: KR1d0026_CHANT_010-bkkxmlele16}
+  - {type: xml-element, offset: 360, content: '', id: KR1d0026_CHANT_010-bkkxmlele17}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR1d0026_CHANT_010-5a.1}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR1d0026_CHANT_010-5a.2}
+  - {type: variant, offset: 360, length: 0, content: '', SBCK: 擯者請之侯氏坐取圭則遂左降拜稽首送玉也從後詔禮曰延延進也}
+  - {type: variant, offset: 360, length: 0, content: '', krp: 擯者請之侯氏坐取圭則遂左降拜稽首送玉也從後詔禮曰延延進也}
+  - {type: punctuation, offset: 362, content: ，, id: KR1d0026_CHANT_010-bkkpn105}
+  - {type: 'tls:seg', offset: 362, content: '', id: KR1d0026_CHANT_010-5a.3}
+  - {type: punctuation, offset: 367, content: ，, id: KR1d0026_CHANT_010-bkkpn106}
+  - {type: 'tls:seg', offset: 367, content: '', id: KR1d0026_CHANT_010-5a.4}
+  - {type: punctuation, offset: 373, content: 。, id: KR1d0026_CHANT_010-bkkpn107}
+  - {type: 'tls:seg', offset: 373, content: '', id: KR1d0026_CHANT_010-5a.5}
+  - {type: variant, offset: 373, length: 0, content: '', SBCK: 四當爲三古書作三四或皆積畫此篇又多四字字相似由此誤也大行人職曰諸侯廟中將幣皆一享其禮差又無取於四也􅀄享或用馬或用虎豹之皮其次享三牲魚腊􅇼豆之實􅀛也今也丹漆􅁝纊竹箭也其餘無常貨此地物非一國所能有唯所有分爲三享皆以璧帛致之}
+  - {type: page-break, offset: 373, content: '', id: KR1d0026_SBCK_010-4b}
+  - {type: variant, offset: 373, length: 0, content: '', krp: 四當爲三古書作三四或皆積畫此篇又多四字字相似由此誤也大行人職曰諸侯廟中將幣皆一享其禮差又無取於四也𥘉享或用馬或用虎豹之皮其次享三牲魚腊籩豆之實龜也今也丹漆絲纊竹箭也其餘無常貨此地物非一國所能有唯所有分爲三享皆以璧帛致之}
+  - {type: punctuation, offset: 376, content: ，, id: KR1d0026_CHANT_010-bkkpn108}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR1d0026_CHANT_010-5a.6}
+  - {type: punctuation, offset: 380, content: ，, id: KR1d0026_CHANT_010-bkkpn109}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR1d0026_CHANT_010-5a.7}
+  - {type: punctuation, offset: 384, content: ，, id: KR1d0026_CHANT_010-bkkpn110}
+  - {type: 'tls:seg', offset: 384, content: '', id: KR1d0026_CHANT_010-5a.8}
+  - {type: punctuation, offset: 388, content: ；, id: KR1d0026_CHANT_010-bkkpn111}
+  - {type: 'tls:seg', offset: 388, content: '', id: KR1d0026_CHANT_010-5a.9}
+  - {type: punctuation, offset: 390, content: ，, id: KR1d0026_CHANT_010-bkkpn112}
+  - {type: 'tls:seg', offset: 390, content: '', id: KR1d0026_CHANT_010-5a.10}
+  - {type: punctuation, offset: 394, content: 。, id: KR1d0026_CHANT_010-bkkpn113}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR1d0026_CHANT_010-5a.11}
+  - {type: variant, offset: 394, length: 0, content: '', SBCK: 卓讀如卓王孫之卓卓猶的也以素的一馬以爲上書其國名後當識其何産也馬必十匹者不敢斥王之乗用成數敬也}
+  - {type: variant, offset: 394, length: 0, content: '', krp: 卓讀如卓王孫之卓卓猶的也以素的一馬以爲上書其國名後當識其何産也馬必十匹者不敢斥王之乗用成數敬也}
+  - {type: punctuation, offset: 397, content: ：, id: KR1d0026_CHANT_010-bkkpn114}
+  - {type: 'tls:seg', offset: 397, content: '', id: KR1d0026_CHANT_010-5a.12}
+  - {type: punctuation, offset: 397, content: 「, id: KR1d0026_CHANT_010-bkkpn115}
+  - {type: substitution, offset: 397, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: variant, offset: 401, length: 0, content: '', SBCK: 受之亦言王欲親}
+  - {type: variant, offset: 401, length: 0, content: '', krp: 受之亦言王欲親}
+  - {type: punctuation, offset: 403, content: 。, id: KR1d0026_CHANT_010-bkkpn116}
+  - {type: punctuation, offset: 403, content: 」, id: KR1d0026_CHANT_010-bkkpn117}
+  - {type: 'tls:seg', offset: 403, content: '', id: KR1d0026_CHANT_010-5a.13}
+  - {type: punctuation, offset: 406, content: ，, id: KR1d0026_CHANT_010-bkkpn118}
+  - {type: 'tls:seg', offset: 406, content: '', id: KR1d0026_CHANT_010-5a.14}
+  - {type: punctuation, offset: 408, content: 。, id: KR1d0026_CHANT_010-bkkpn119}
+  - {type: 'tls:seg', offset: 408, content: '', id: KR1d0026_CHANT_010-5a.15}
+  - {type: punctuation, offset: 411, content: 。, id: KR1d0026_CHANT_010-bkkpn120}
+  - {type: 'tls:seg', offset: 411, content: '', id: KR1d0026_CHANT_010-5a.16}
+  - {type: punctuation, offset: 417, content: ，, id: KR1d0026_CHANT_010-bkkpn121}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR1d0026_CHANT_010-5a.17}
+  - {type: punctuation, offset: 422, content: ；, id: KR1d0026_CHANT_010-bkkpn122}
+  - {type: 'tls:seg', offset: 422, content: '', id: KR1d0026_CHANT_010-5a.18}
+  - {type: punctuation, offset: 429, content: ，, id: KR1d0026_CHANT_010-bkkpn123}
+  - {type: 'tls:seg', offset: 429, content: '', id: KR1d0026_CHANT_010-5a.19}
+  - {type: punctuation, offset: 434, content: ，, id: KR1d0026_CHANT_010-bkkpn124}
+  - {type: 'tls:seg', offset: 434, content: '', id: KR1d0026_CHANT_010-5a.20}
+  - {type: punctuation, offset: 438, content: 。, id: KR1d0026_CHANT_010-bkkpn125}
+  - {type: 'tls:seg', offset: 438, content: '', id: KR1d0026_CHANT_010-5a.21}
+  - {type: variant, offset: 438, length: 0, content: '', SBCK: 王不受玉撫之而巳輕財也以馬出隨侯氏出授王人於外也王不使人受馬者主于享王之尊益君侯氏之卑益臣}
+  - {type: variant, offset: 438, length: 0, content: '', krp: 王不受玉撫之而巳輕財也以馬出隨侯氏出授王人於外也王不使人受馬者主于享王之尊益君侯氏之卑益臣}
+  - {type: punctuation, offset: 440, content: 。, id: KR1d0026_CHANT_010-bkkpn126}
+  - {type: xml-element, offset: 440, content: '', id: KR1d0026_CHANT_010-bkkxmlele18}
+  - {type: xml-element, offset: 440, content: '', id: KR1d0026_CHANT_010-bkkxmlele19}
+  - {type: 'tls:seg', offset: 440, content: '', id: KR1d0026_CHANT_010-6a.1}
+  - {type: 'tls:seg', offset: 440, content: '', id: KR1d0026_CHANT_010-6a.2}
+  - {type: variant, offset: 440, length: 0, content: '', SBCK: 三享訖}
+  - {type: variant, offset: 440, length: 0, content: '', krp: 三享訖}
+  - {type: variant, offset: 443, length: 1, content: 袒, SBCK: 􅃝}
+  - {type: punctuation, offset: 449, content: 。, id: KR1d0026_CHANT_010-bkkpn127}
+  - {type: 'tls:seg', offset: 449, content: '', id: KR1d0026_CHANT_010-6a.3}
+  - {type: punctuation, offset: 453, content: ，, id: KR1d0026_CHANT_010-bkkpn128}
+  - {type: 'tls:seg', offset: 453, content: '', id: KR1d0026_CHANT_010-6a.4}
+  - {type: page-break, offset: 454, content: '', id: KR1d0026_SBCK_010-5a}
+  - {type: punctuation, offset: 456, content: ，, id: KR1d0026_CHANT_010-bkkpn129}
+  - {type: 'tls:seg', offset: 456, content: '', id: KR1d0026_CHANT_010-6a.5}
+  - {type: punctuation, offset: 459, content: 。, id: KR1d0026_CHANT_010-bkkpn130}
+  - {type: 'tls:seg', offset: 459, content: '', id: KR1d0026_CHANT_010-6a.6}
+  - {type: variant, offset: 459, length: 0, content: '', SBCK: 右肉􅃝者刑宜施於右也凡以禮事者左祖入更從右者臣益純也告聽事者告王以國所用爲罪之事也易曰折其右肱无咎}
+  - {type: variant, offset: 459, length: 0, content: '', krp: 右肉袒者刑宜施於右也凡以禮事者左祖入更從右者臣益純也告聽事者告王以國所用爲罪之事也易曰折其右肱无咎}
+  - {type: punctuation, offset: 465, content: 。, id: KR1d0026_CHANT_010-bkkpn131}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR1d0026_CHANT_010-6a.7}
+  - {type: punctuation, offset: 471, content: ，, id: KR1d0026_CHANT_010-bkkpn132}
+  - {type: 'tls:seg', offset: 471, content: '', id: KR1d0026_CHANT_010-6a.8}
+  - {type: punctuation, offset: 472, content: ：, id: KR1d0026_CHANT_010-bkkpn133}
+  - {type: 'tls:seg', offset: 472, content: '', id: KR1d0026_CHANT_010-6a.9}
+  - {type: punctuation, offset: 472, content: 「, id: KR1d0026_CHANT_010-bkkpn134}
+  - {type: punctuation, offset: 476, content: ，, id: KR1d0026_CHANT_010-bkkpn135}
+  - {type: 'tls:seg', offset: 476, content: '', id: KR1d0026_CHANT_010-6a.10}
+  - {type: variant, offset: 479, length: 1, content: 邦, SBCK: 拜謁告寧安也乃猶女也}
+  - {type: variant, offset: 479, length: 1, content: 邦, krp: 拜謁告寧安也乃猶女也}
+  - {type: punctuation, offset: 480, content: ！, id: KR1d0026_CHANT_010-bkkpn136}
+  - {type: punctuation, offset: 480, content: 」, id: KR1d0026_CHANT_010-bkkpn137}
+  - {type: 'tls:seg', offset: 480, content: '', id: KR1d0026_CHANT_010-6a.11}
+  - {type: punctuation, offset: 486, content: ，, id: KR1d0026_CHANT_010-bkkpn138}
+  - {type: 'tls:seg', offset: 486, content: '', id: KR1d0026_CHANT_010-6a.12}
+  - {type: punctuation, offset: 487, content: ；, id: KR1d0026_CHANT_010-bkkpn139}
+  - {type: 'tls:seg', offset: 487, content: '', id: KR1d0026_CHANT_010-6a.13}
+  - {type: punctuation, offset: 493, content: ，, id: KR1d0026_CHANT_010-bkkpn140}
+  - {type: 'tls:seg', offset: 493, content: '', id: KR1d0026_CHANT_010-6a.14}
+  - {type: punctuation, offset: 497, content: ，, id: KR1d0026_CHANT_010-bkkpn141}
+  - {type: 'tls:seg', offset: 497, content: '', id: KR1d0026_CHANT_010-6a.15}
+  - {type: punctuation, offset: 500, content: ；, id: KR1d0026_CHANT_010-bkkpn142}
+  - {type: 'tls:seg', offset: 500, content: '', id: KR1d0026_CHANT_010-6a.16}
+  - {type: punctuation, offset: 503, content: 。, id: KR1d0026_CHANT_010-bkkpn143}
+  - {type: 'tls:seg', offset: 503, content: '', id: KR1d0026_CHANT_010-6a.17}
+  - {type: punctuation, offset: 507, content: 。, id: KR1d0026_CHANT_010-bkkpn144}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR1d0026_CHANT_010-6a.18}
+  - {type: punctuation, offset: 511, content: ，, id: KR1d0026_CHANT_010-bkkpn145}
+  - {type: 'tls:seg', offset: 511, content: '', id: KR1d0026_CHANT_010-6a.19}
+  - {type: punctuation, offset: 512, content: ：, id: KR1d0026_CHANT_010-bkkpn146}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR1d0026_CHANT_010-6a.20}
+  - {type: punctuation, offset: 512, content: 「, id: KR1d0026_CHANT_010-bkkpn147}
+  - {type: punctuation, offset: 513, content: ！, id: KR1d0026_CHANT_010-bkkpn148}
+  - {type: punctuation, offset: 513, content: 」, id: KR1d0026_CHANT_010-bkkpn149}
+  - {type: 'tls:seg', offset: 513, content: '', id: KR1d0026_CHANT_010-6a.21}
+  - {type: punctuation, offset: 514, content: ，, id: KR1d0026_CHANT_010-bkkpn150}
+  - {type: 'tls:seg', offset: 514, content: '', id: KR1d0026_CHANT_010-6a.22}
+  - {type: punctuation, offset: 516, content: ，, id: KR1d0026_CHANT_010-bkkpn151}
+  - {type: 'tls:seg', offset: 516, content: '', id: KR1d0026_CHANT_010-6a.23}
+  - {type: punctuation, offset: 517, content: ，, id: KR1d0026_CHANT_010-bkkpn152}
+  - {type: 'tls:seg', offset: 517, content: '', id: KR1d0026_CHANT_010-6a.24}
+  - {type: punctuation, offset: 518, content: 。, id: KR1d0026_CHANT_010-bkkpn153}
+  - {type: xml-element, offset: 518, content: '', id: KR1d0026_CHANT_010-bkkxmlele20}
+  - {type: xml-element, offset: 518, content: '', id: KR1d0026_CHANT_010-bkkxmlele21}
+  - {type: 'tls:seg', offset: 518, content: '', id: KR1d0026_CHANT_010-7a.1}
+  - {type: 'tls:seg', offset: 518, content: '', id: KR1d0026_CHANT_010-7a.2}
+  - {type: variant, offset: 518, length: 0, content: '', SBCK: 王辭之不即左者當出隱於屏而襲之也天子外屏勞之勞其道勞也}
+  - {type: variant, offset: 518, length: 0, content: '', krp: 王辭之不即左者當出隱於屏而襲之也天子外屏勞之勞其道勞也}
+  - {type: punctuation, offset: 526, content: 。, id: KR1d0026_CHANT_010-bkkpn154}
+  - {type: 'tls:seg', offset: 526, content: '', id: KR1d0026_CHANT_010-7a.3}
+  - {type: punctuation, offset: 531, content: ，, id: KR1d0026_CHANT_010-bkkpn155}
+  - {type: 'tls:seg', offset: 531, content: '', id: KR1d0026_CHANT_010-7a.4}
+  - {type: punctuation, offset: 533, content: 。, id: KR1d0026_CHANT_010-bkkpn156}
+  - {type: 'tls:seg', offset: 533, content: '', id: KR1d0026_CHANT_010-7a.5}
+  - {type: variant, offset: 533, length: 0, content: '', SBCK: 賜車者同姓以全路異姓以象路服則衮也鷩也毳也古文曰迎于門外也}
+  - {type: page-break, offset: 533, content: '', id: KR1d0026_SBCK_010-5b}
+  - {type: variant, offset: 533, length: 0, content: '', krp: 賜車者同姓以全路異姓以象路服則衮也鷩也毳也古文曰迎于門外也}
+  - {type: punctuation, offset: 536, content: ，, id: KR1d0026_CHANT_010-bkkpn157}
+  - {type: 'tls:seg', offset: 536, content: '', id: KR1d0026_CHANT_010-7a.6}
+  - {type: punctuation, offset: 538, content: ；, id: KR1d0026_CHANT_010-bkkpn158}
+  - {type: 'tls:seg', offset: 538, content: '', id: KR1d0026_CHANT_010-7a.7}
+  - {type: punctuation, offset: 541, content: ，, id: KR1d0026_CHANT_010-bkkpn159}
+  - {type: 'tls:seg', offset: 541, content: '', id: KR1d0026_CHANT_010-7a.8}
+  - {type: punctuation, offset: 543, content: ；, id: KR1d0026_CHANT_010-bkkpn160}
+  - {type: 'tls:seg', offset: 543, content: '', id: KR1d0026_CHANT_010-7a.9}
+  - {type: punctuation, offset: 547, content: ，, id: KR1d0026_CHANT_010-bkkpn161}
+  - {type: 'tls:seg', offset: 547, content: '', id: KR1d0026_CHANT_010-7a.10}
+  - {type: punctuation, offset: 550, content: 。, id: KR1d0026_CHANT_010-bkkpn162}
+  - {type: 'tls:seg', offset: 550, content: '', id: KR1d0026_CHANT_010-7a.11}
+  - {type: variant, offset: 550, length: 0, content: '', SBCK: 路謂車也凡君所乗車曰路路下四謂乗馬也亞之次車而東也詩云君子來朝何錫予之雖無予之路車乗馬又何與之玄衮及黼重猶善也所加賜善物多少由恩也春秋傳曰重錦三十兩}
+  - {type: variant, offset: 550, length: 0, content: '', krp: 路謂車也凡君所乗車曰路路下四謂乗馬也亞之次車而東也詩云君子來朝何錫予之雖無予之路車乗馬又何與之玄衮及黼重猶善也所加賜善物多少由恩也春秋傳曰重錦三十兩}
+  - {type: punctuation, offset: 555, content: ，, id: KR1d0026_CHANT_010-bkkpn163}
+  - {type: 'tls:seg', offset: 555, content: '', id: KR1d0026_CHANT_010-7a.12}
+  - {type: punctuation, offset: 561, content: ；, id: KR1d0026_CHANT_010-bkkpn164}
+  - {type: 'tls:seg', offset: 561, content: '', id: KR1d0026_CHANT_010-7a.13}
+  - {type: punctuation, offset: 565, content: ，, id: KR1d0026_CHANT_010-bkkpn165}
+  - {type: 'tls:seg', offset: 565, content: '', id: KR1d0026_CHANT_010-7a.14}
+  - {type: punctuation, offset: 567, content: ；, id: KR1d0026_CHANT_010-bkkpn166}
+  - {type: 'tls:seg', offset: 567, content: '', id: KR1d0026_CHANT_010-7a.15}
+  - {type: punctuation, offset: 571, content: 。, id: KR1d0026_CHANT_010-bkkpn167}
+  - {type: 'tls:seg', offset: 571, content: '', id: KR1d0026_CHANT_010-7a.16}
+  - {type: variant, offset: 571, length: 0, content: '', SBCK: 言諸公者王同時分命之而使賜侯氏也右讀如周公右王之右是右者始隨入於升東面乃居其右古文是爲氏也}
+  - {type: variant, offset: 571, length: 0, content: '', krp: 言諸公者王同時分命之而使賜侯氏也右讀如周公右王之右是右者始隨入於升東面乃居其右古文是爲氏也}
+  - {type: punctuation, offset: 574, content: ，, id: KR1d0026_CHANT_010-bkkpn168}
+  - {type: 'tls:seg', offset: 574, content: '', id: KR1d0026_CHANT_010-7a.17}
+  - {type: punctuation, offset: 577, content: 。, id: KR1d0026_CHANT_010-bkkpn169}
+  - {type: 'tls:seg', offset: 577, content: '', id: KR1d0026_CHANT_010-7a.18}
+  - {type: punctuation, offset: 581, content: 。, id: KR1d0026_CHANT_010-bkkpn170}
+  - {type: 'tls:seg', offset: 581, content: '', id: KR1d0026_CHANT_010-7a.19}
+  - {type: variant, offset: 581, length: 0, content: '', SBCK: 讀王命書也}
+  - {type: variant, offset: 581, length: 0, content: '', krp: 讀王命書也}
+  - {type: punctuation, offset: 584, content: ，, id: KR1d0026_CHANT_010-bkkpn171}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR1d0026_CHANT_010-7a.20}
+  - {type: variant, offset: 587, length: 1, content: 閒, SBCK: 間}
+  - {type: variant, offset: 587, length: 1, content: 閒, krp: 間}
+  - {type: punctuation, offset: 594, content: ，, id: KR1d0026_CHANT_010-bkkpn172}
+  - {type: 'tls:seg', offset: 594, content: '', id: KR1d0026_CHANT_010-7a.21}
+  - {type: variant, offset: 594, length: 0, content: '', SBCK: 受命}
+  - {type: variant, offset: 594, length: 0, content: '', krp: 受命}
+  - {type: punctuation, offset: 595, content: ，, id: KR1d0026_CHANT_010-bkkpn173}
+  - {type: 'tls:seg', offset: 595, content: '', id: KR1d0026_CHANT_010-7a.22}
+  - {type: punctuation, offset: 597, content: 。, id: KR1d0026_CHANT_010-bkkpn174}
+  - {type: 'tls:seg', offset: 597, content: '', id: KR1d0026_CHANT_010-7a.23}
+  - {type: variant, offset: 597, length: 0, content: '', SBCK: 大史辭之降也春秋傳曰且有後命以伯舅耋老母下拜此辭之􅀋}
+  - {type: page-break, offset: 597, content: '', id: KR1d0026_SBCK_010-6a}
+  - {type: variant, offset: 597, length: 0, content: '', krp: 大史辭之降也春秋傳曰且有後命以伯舅耋老母下拜此辭之類}
+  - {type: punctuation, offset: 604, content: ，, id: KR1d0026_CHANT_010-bkkpn175}
+  - {type: 'tls:seg', offset: 604, content: '', id: KR1d0026_CHANT_010-7a.24}
+  - {type: punctuation, offset: 607, content: 。, id: KR1d0026_CHANT_010-bkkpn176}
+  - {type: 'tls:seg', offset: 607, content: '', id: KR1d0026_CHANT_010-7a.25}
+  - {type: variant, offset: 607, length: 0, content: '', SBCK: 受篋服}
+  - {type: variant, offset: 607, length: 0, content: '', krp: 受篋服}
+  - {type: punctuation, offset: 610, content: 。, id: KR1d0026_CHANT_010-bkkpn177}
+  - {type: 'tls:seg', offset: 610, content: '', id: KR1d0026_CHANT_010-7a.26}
+  - {type: punctuation, offset: 613, content: ，, id: KR1d0026_CHANT_010-bkkpn178}
+  - {type: 'tls:seg', offset: 613, content: '', id: KR1d0026_CHANT_010-7a.27}
+  - {type: punctuation, offset: 615, content: ，, id: KR1d0026_CHANT_010-bkkpn179}
+  - {type: 'tls:seg', offset: 615, content: '', id: KR1d0026_CHANT_010-7a.28}
+  - {type: punctuation, offset: 618, content: ：, id: KR1d0026_CHANT_010-bkkpn180}
+  - {type: 'tls:seg', offset: 618, content: '', id: KR1d0026_CHANT_010-7a.29}
+  - {type: punctuation, offset: 625, content: 、, id: KR1d0026_CHANT_010-bkkpn181}
+  - {type: punctuation, offset: 627, content: ；, id: KR1d0026_CHANT_010-bkkpn182}
+  - {type: 'tls:seg', offset: 627, content: '', id: KR1d0026_CHANT_010-7a.30}
+  - {type: punctuation, offset: 633, content: 。, id: KR1d0026_CHANT_010-bkkpn183}
+  - {type: xml-element, offset: 633, content: '', id: KR1d0026_CHANT_010-bkkxmlele22}
+  - {type: xml-element, offset: 633, content: '', id: KR1d0026_CHANT_010-bkkxmlele23}
+  - {type: 'tls:seg', offset: 633, content: '', id: KR1d0026_CHANT_010-8a.1}
+  - {type: 'tls:seg', offset: 633, content: '', id: KR1d0026_CHANT_010-8a.2}
+  - {type: variant, offset: 633, length: 0, content: '', SBCK: 旣云拜送乃言儐使者以勞有成禮畧而遂言}
+  - {type: variant, offset: 633, length: 0, content: '', krp: 旣云拜送乃言儐使者以勞有成禮畧而遂言}
+  - {type: punctuation, offset: 639, content: 「, id: KR1d0026_CHANT_010-bkkpn184}
+  - {type: punctuation, offset: 641, content: 」, id: KR1d0026_CHANT_010-bkkpn185}
+  - {type: punctuation, offset: 641, content: ，, id: KR1d0026_CHANT_010-bkkpn186}
+  - {type: 'tls:seg', offset: 641, content: '', id: KR1d0026_CHANT_010-8a.3}
+  - {type: punctuation, offset: 646, content: 「, id: KR1d0026_CHANT_010-bkkpn187}
+  - {type: punctuation, offset: 648, content: 」, id: KR1d0026_CHANT_010-bkkpn188}
+  - {type: punctuation, offset: 648, content: ；, id: KR1d0026_CHANT_010-bkkpn189}
+  - {type: 'tls:seg', offset: 648, content: '', id: KR1d0026_CHANT_010-8a.4}
+  - {type: variant, offset: 651, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: punctuation, offset: 654, content: 「, id: KR1d0026_CHANT_010-bkkpn190}
+  - {type: punctuation, offset: 656, content: 」, id: KR1d0026_CHANT_010-bkkpn191}
+  - {type: punctuation, offset: 656, content: ，, id: KR1d0026_CHANT_010-bkkpn192}
+  - {type: 'tls:seg', offset: 656, content: '', id: KR1d0026_CHANT_010-8a.5}
+  - {type: variant, offset: 659, length: 0, content: '', SBCK: 小􅀖}
+  - {type: variant, offset: 659, length: 0, content: '', krp: 小邦}
+  - {type: punctuation, offset: 661, content: 「, id: KR1d0026_CHANT_010-bkkpn193}
+  - {type: punctuation, offset: 663, content: 」, id: KR1d0026_CHANT_010-bkkpn194}
+  - {type: punctuation, offset: 663, content: 。, id: KR1d0026_CHANT_010-bkkpn195}
+  - {type: xml-element, offset: 663, content: '', id: KR1d0026_CHANT_010-bkkxmlele24}
+  - {type: xml-element, offset: 663, content: '', id: KR1d0026_CHANT_010-bkkxmlele25}
+  - {type: 'tls:seg', offset: 663, content: '', id: KR1d0026_CHANT_010-8a.6}
+  - {type: variant, offset: 663, length: 0, content: '', SBCK: 據此禮云伯父同姓大􅀖而言}
+  - {type: variant, offset: 663, length: 0, content: '', krp: 據此禮云伯父同姓大邦而言}
+  - {type: punctuation, offset: 664, content: ，, id: KR1d0026_CHANT_010-bkkpn196}
+  - {type: 'tls:seg', offset: 664, content: '', id: KR1d0026_CHANT_010-8a.7}
+  - {type: punctuation, offset: 665, content: ，, id: KR1d0026_CHANT_010-bkkpn197}
+  - {type: 'tls:seg', offset: 665, content: '', id: KR1d0026_CHANT_010-8a.8}
+  - {type: punctuation, offset: 667, content: 。, id: KR1d0026_CHANT_010-bkkpn198}
+  - {type: xml-element, offset: 667, content: '', id: KR1d0026_CHANT_010-bkkxmlele26}
+  - {type: xml-element, offset: 667, content: '', id: KR1d0026_CHANT_010-bkkxmlele27}
+  - {type: 'tls:seg', offset: 667, content: '', id: KR1d0026_CHANT_010-9a.1}
+  - {type: 'tls:seg', offset: 667, content: '', id: KR1d0026_CHANT_010-9a.2}
+  - {type: variant, offset: 667, length: 0, content: '', SBCK: 禮謂食燕也王或不親以其禮幣致之畧言饗禮互文也掌客職曰上公三饗三食三燕侯伯再饗再食再燕子男一饗一食一燕}
+  - {type: variant, offset: 667, length: 0, content: '', krp: 禮謂食燕也王或不親以其禮幣致之畧言饗禮互文也掌客職曰上公三饗三食三燕侯伯再饗再食再燕子男一饗一食一燕}
+  - {type: variant, offset: 670, length: 1, content: 于, SBCK: 於}
+  - {type: variant, offset: 670, length: 1, content: 于, krp: 於}
+  - {type: punctuation, offset: 673, content: ，, id: KR1d0026_CHANT_010-bkkpn199}
+  - {type: 'tls:seg', offset: 673, content: '', id: KR1d0026_CHANT_010-9a.3}
+  - {type: variant, offset: 673, length: 1, content: 為, SBCK: 爲}
+  - {type: variant, offset: 673, length: 1, content: 為, krp: 爲}
+  - {type: variant, offset: 674, length: 1, content: 宮, SBCK: 宫}
+  - {type: variant, offset: 674, length: 1, content: 宮, krp: 宫}
+  - {type: punctuation, offset: 675, content: ，, id: KR1d0026_CHANT_010-bkkpn200}
+  - {type: 'tls:seg', offset: 675, content: '', id: KR1d0026_CHANT_010-9a.4}
+  - {type: variant, offset: 678, length: 1, content: 步, SBCK: 歩}
+  - {type: variant, offset: 678, length: 1, content: 步, krp: 歩}
+  - {type: punctuation, offset: 679, content: ，, id: KR1d0026_CHANT_010-bkkpn201}
+  - {type: 'tls:seg', offset: 679, content: '', id: KR1d0026_CHANT_010-9a.5}
+  - {type: punctuation, offset: 681, content: ；, id: KR1d0026_CHANT_010-bkkpn202}
+  - {type: 'tls:seg', offset: 681, content: '', id: KR1d0026_CHANT_010-9a.6}
+  - {type: page-break, offset: 682, content: '', id: KR1d0026_SBCK_010-6b}
+  - {type: variant, offset: 685, length: 1, content: 尋, SBCK: 㝷}
+  - {type: variant, offset: 685, length: 1, content: 尋, krp: 㝷}
+  - {type: punctuation, offset: 686, content: 、, id: KR1d0026_CHANT_010-bkkpn203}
+  - {type: punctuation, offset: 689, content: ，, id: KR1d0026_CHANT_010-bkkpn204}
+  - {type: 'tls:seg', offset: 689, content: '', id: KR1d0026_CHANT_010-9a.7}
+  - {type: punctuation, offset: 695, content: 。, id: KR1d0026_CHANT_010-bkkpn205}
+  - {type: 'tls:seg', offset: 695, content: '', id: KR1d0026_CHANT_010-9a.8}
+  - {type: variant, offset: 695, length: 0, content: '', SBCK: 四時朝覲受之於廟此謂時㑹殷同也宫謂壝土爲埒以象墻壁也爲宫者於國外春㑹同則於東方夏㑹同則於南方秋㑹同則於西方冬㑹同則於北方八尺曰㝷十有二㝷則方九十六尺也深謂髙也從上曰深司儀職曰爲壇三成成猶重也三重者自下差之爲三等而上有堂焉堂上方二丈四尺上等中等下等毎面十二尺方明者上下四方神明之象也上下四方之神者所謂神明也㑹同而盟明神監之則謂之天之司盟有象者猶宗廟之有主乎王廵守至于方嶽之下諸侯㑹之亦爲此宫以見之司儀職曰將㑹諸侯則㑹爲壇三成宫旁一門詔王儀南郷見諸侯也}
+  - {type: variant, offset: 695, length: 0, content: '', krp: 四時朝覲受之於廟此謂時㑹殷同也宫謂壝土爲埒以象墻壁也爲宫者於國外春㑹同則於東方夏㑹同則於南方秋㑹同則於西方冬㑹同則於北方八尺曰㝷十有二㝷則方九十六尺也深謂髙也從上曰深司儀職曰爲壇三成成猶重也三重者自下差之爲三等而上有堂焉堂上方二丈四尺上等中等下等毎面十二尺方明者上下四方神明之象也上下四方之神者所謂神明也㑹同而盟明神監之則謂之天之司盟有象者猶宗廟之有主乎王廵守至于方嶽之下諸侯㑹之亦爲此宫以見之司儀職曰將㑹諸侯則㑹爲壇三成宫旁一門詔王儀南郷見諸侯也}
+  - {type: punctuation, offset: 698, content: 、, id: KR1d0026_CHANT_010-bkkpn206}
+  - {type: punctuation, offset: 700, content: 。, id: KR1d0026_CHANT_010-bkkpn207}
+  - {type: 'tls:seg', offset: 700, content: '', id: KR1d0026_CHANT_010-9a.9}
+  - {type: punctuation, offset: 703, content: 。, id: KR1d0026_CHANT_010-bkkpn208}
+  - {type: 'tls:seg', offset: 703, content: '', id: KR1d0026_CHANT_010-9a.10}
+  - {type: punctuation, offset: 706, content: ：, id: KR1d0026_CHANT_010-bkkpn209}
+  - {type: 'tls:seg', offset: 706, content: '', id: KR1d0026_CHANT_010-9a.11}
+  - {type: page-break, offset: 706, content: '', id: KR1d0026_SBCK_010-7a}
+  - {type: punctuation, offset: 709, content: ，, id: KR1d0026_CHANT_010-bkkpn210}
+  - {type: 'tls:seg', offset: 709, content: '', id: KR1d0026_CHANT_010-9a.12}
+  - {type: punctuation, offset: 712, content: ，, id: KR1d0026_CHANT_010-bkkpn211}
+  - {type: 'tls:seg', offset: 712, content: '', id: KR1d0026_CHANT_010-9a.13}
+  - {type: punctuation, offset: 715, content: ，, id: KR1d0026_CHANT_010-bkkpn212}
+  - {type: 'tls:seg', offset: 715, content: '', id: KR1d0026_CHANT_010-9a.14}
+  - {type: variant, offset: 717, length: 1, content: 黑, SBCK: 黒}
+  - {type: variant, offset: 717, length: 1, content: 黑, krp: 黒}
+  - {type: punctuation, offset: 718, content: ，, id: KR1d0026_CHANT_010-bkkpn213}
+  - {type: 'tls:seg', offset: 718, content: '', id: KR1d0026_CHANT_010-9a.15}
+  - {type: punctuation, offset: 720, content: ，, id: KR1d0026_CHANT_010-bkkpn214}
+  - {type: 'tls:seg', offset: 720, content: '', id: KR1d0026_CHANT_010-9a.16}
+  - {type: punctuation, offset: 722, content: 。, id: KR1d0026_CHANT_010-bkkpn215}
+  - {type: 'tls:seg', offset: 722, content: '', id: KR1d0026_CHANT_010-9a.17}
+  - {type: punctuation, offset: 725, content: ：, id: KR1d0026_CHANT_010-bkkpn216}
+  - {type: 'tls:seg', offset: 725, content: '', id: KR1d0026_CHANT_010-9a.18}
+  - {type: punctuation, offset: 727, content: ，, id: KR1d0026_CHANT_010-bkkpn217}
+  - {type: 'tls:seg', offset: 727, content: '', id: KR1d0026_CHANT_010-9a.19}
+  - {type: punctuation, offset: 729, content: ，, id: KR1d0026_CHANT_010-bkkpn218}
+  - {type: 'tls:seg', offset: 729, content: '', id: KR1d0026_CHANT_010-9a.20}
+  - {type: punctuation, offset: 732, content: ，, id: KR1d0026_CHANT_010-bkkpn219}
+  - {type: 'tls:seg', offset: 732, content: '', id: KR1d0026_CHANT_010-9a.21}
+  - {type: punctuation, offset: 735, content: ，, id: KR1d0026_CHANT_010-bkkpn220}
+  - {type: 'tls:seg', offset: 735, content: '', id: KR1d0026_CHANT_010-9a.22}
+  - {type: punctuation, offset: 738, content: ，, id: KR1d0026_CHANT_010-bkkpn221}
+  - {type: 'tls:seg', offset: 738, content: '', id: KR1d0026_CHANT_010-9a.23}
+  - {type: punctuation, offset: 741, content: 。, id: KR1d0026_CHANT_010-bkkpn222}
+  - {type: 'tls:seg', offset: 741, content: '', id: KR1d0026_CHANT_010-9a.24}
+  - {type: variant, offset: 741, length: 0, content: '', SBCK: 六色象其神六玉以禮之上宜以蒼璧下宜以黃琮而不以者則上下之神非天地之至貴者也設玉者刻其木而著之}
+  - {type: variant, offset: 741, length: 0, content: '', krp: 六色象其神六玉以禮之上宜以蒼璧下宜以黃琮而不以者則上下之神非天地之至貴者也設玉者刻其木而著之}
+  - {type: substitution, offset: 748, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1456}}
+  - {type: punctuation, offset: 749, content: ，, id: KR1d0026_CHANT_010-bkkpn223}
+  - {type: 'tls:seg', offset: 749, content: '', id: KR1d0026_CHANT_010-9a.25}
+  - {type: variant, offset: 751, length: 1, content: 宮, SBCK: 宫}
+  - {type: variant, offset: 751, length: 1, content: 宮, krp: 宫}
+  - {type: punctuation, offset: 752, content: ，, id: KR1d0026_CHANT_010-bkkpn224}
+  - {type: 'tls:seg', offset: 752, content: '', id: KR1d0026_CHANT_010-9a.26}
+  - {type: punctuation, offset: 754, content: 。, id: KR1d0026_CHANT_010-bkkpn225}
+  - {type: 'tls:seg', offset: 754, content: '', id: KR1d0026_CHANT_010-9a.27}
+  - {type: punctuation, offset: 755, content: 、, id: KR1d0026_CHANT_010-bkkpn226}
+  - {type: punctuation, offset: 756, content: 、, id: KR1d0026_CHANT_010-bkkpn227}
+  - {type: punctuation, offset: 757, content: 、, id: KR1d0026_CHANT_010-bkkpn228}
+  - {type: punctuation, offset: 758, content: 、, id: KR1d0026_CHANT_010-bkkpn229}
+  - {type: punctuation, offset: 759, content: ，, id: KR1d0026_CHANT_010-bkkpn230}
+  - {type: 'tls:seg', offset: 759, content: '', id: KR1d0026_CHANT_010-9a.28}
+  - {type: substitution, offset: 762, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1456}}
+  - {type: punctuation, offset: 765, content: 。, id: KR1d0026_CHANT_010-bkkpn231}
+  - {type: 'tls:seg', offset: 765, content: '', id: KR1d0026_CHANT_010-9a.29}
+  - {type: variant, offset: 765, length: 0, content: '', SBCK: 置於宮者建之豫爲其君見王之位也諸公中階之前北面東上諸侯東階之東西面北上諸伯西階之西東面北上諸子門東北面東上諸男門西北面東上尚左建旂公東上侯先伯伯先子子先男而位皆上東方也諸侯入壝門或左或右各就其旂而立王降階南郷見之三揖土揖庶姓時揖異姓天揖同姓見揖位乃定古文尚作上}
+  - {type: page-break, offset: 765, content: '', id: KR1d0026_SBCK_010-7b}
+  - {type: variant, offset: 765, length: 0, content: '', krp: 置於宮者建之豫爲其君見王之位也諸公中階之前北面東上諸侯東階之東西面北上諸伯西階之西東面北上諸子門東北面東上諸男門西北面東上尚左建旂公東上侯先伯伯先子子先男而位皆上東方也諸侯入壝門或左或右各就其旂而立王降階南郷見之三揖土揖庶姓時揖異姓天揖同姓見揖位乃定古文尚作上}
+  - {type: punctuation, offset: 768, content: 。, id: KR1d0026_CHANT_010-bkkpn232}
+  - {type: 'tls:seg', offset: 768, content: '', id: KR1d0026_CHANT_010-9a.30}
+  - {type: variant, offset: 768, length: 0, content: '', SBCK: 王旣揖五者升壇設擯升諸侯以㑹同之禮其奠瑞玉及享幣公拜於上等侯伯於中等子男於下等擯者毎延之升堂致命王受玉撫玉降拜於下等及請事勞皆如覲禮是以記之覲云四傳擯者毎一位畢擯者以告乃更陳列而升其次公也侯也伯也各一位子男俠門而俱東上亦一位也至庭乃設擯則諸侯初入門王官之伯帥之耳古文傳作􅀓}
+  - {type: variant, offset: 768, length: 0, content: '', krp: 王旣揖五者升壇設擯升諸侯以㑹同之禮其奠瑞玉及享幣公拜於上等侯伯於中等子男於下等擯者毎延之升堂致命王受玉撫玉降拜於下等及請事勞皆如覲禮是以記之覲云四傳擯者毎一位畢擯者以告乃更陳列而升其次公也侯也伯也各一位子男俠門而俱東上亦一位也至庭乃設擯則諸侯初入門王官之伯帥之耳古文傳作傳}
+  - {type: variant, offset: 770, length: 1, content: 乘, SBCK: 乗}
+  - {type: variant, offset: 770, length: 1, content: 乘, krp: 乗}
+  - {type: punctuation, offset: 772, content: ，, id: KR1d0026_CHANT_010-bkkpn233}
+  - {type: 'tls:seg', offset: 772, content: '', id: KR1d0026_CHANT_010-9a.31}
+  - {type: variant, offset: 774, length: 1, content: 旂, SBCK: 斾}
+  - {type: variant, offset: 774, length: 1, content: 旂, krp: 斾}
+  - {type: substitution, offset: 774, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1456}}
+  - {type: punctuation, offset: 775, content: ，, id: KR1d0026_CHANT_010-bkkpn234}
+  - {type: 'tls:seg', offset: 775, content: '', id: KR1d0026_CHANT_010-9a.32}
+  - {type: punctuation, offset: 778, content: 、, id: KR1d0026_CHANT_010-bkkpn235}
+  - {type: punctuation, offset: 780, content: 、, id: KR1d0026_CHANT_010-bkkpn236}
+  - {type: punctuation, offset: 782, content: ；, id: KR1d0026_CHANT_010-bkkpn237}
+  - {type: 'tls:seg', offset: 782, content: '', id: KR1d0026_CHANT_010-9a.33}
+  - {type: punctuation, offset: 790, content: ；, id: KR1d0026_CHANT_010-bkkpn238}
+  - {type: 'tls:seg', offset: 790, content: '', id: KR1d0026_CHANT_010-9a.34}
+  - {type: punctuation, offset: 794, content: 。, id: KR1d0026_CHANT_010-bkkpn239}
+  - {type: 'tls:seg', offset: 794, content: '', id: KR1d0026_CHANT_010-9a.35}
+  - {type: variant, offset: 794, length: 0, content: '', SBCK: 此謂㑹同以春者也馬八尺以上爲龍大斾大常也王建大常縿首畫日月其下及旒交畫升龍降龍朝事儀曰天子冕而執鎮圭尺有二寸繅籍尺有二寸搢大圭乗大路建大常十有二旒樊纓十有二就貳車十有二乗帥諸侯而朝日於東郊所以教尊尊也退而朝諸侯由此二者言之己祀方明乃以㑹同之禮見諸侯也凡㑹同者不恊而盟司盟職曰凡􅀖國有疑㑹同則掌其盟約之載書及其禮儀北面詔明神旣盟則藏之言北面詔明神則明神有象也象者其方明乎及盟時又加於壇上乃以載辭告焉詛祝掌其祝號}
+  - {type: page-break, offset: 794, content: '', id: KR1d0026_SBCK_010-8a}
+  - {type: variant, offset: 794, length: 0, content: '', krp: 此謂㑹同以春者也馬八尺以上爲龍大斾大常也王建大常縿首畫日月其下及旒交畫升龍降龍朝事儀曰天子冕而執鎮圭尺有二寸繅籍尺有二寸搢大圭乗大路建大常十有二旒樊纓十有二就貳車十有二乗帥諸侯而朝日於東郊所以教尊尊也退而朝諸侯由此二者言之己祀方明乃以㑹同之禮見諸侯也凡㑹同者不恊而盟司盟職曰凡邦國有疑㑹同則掌其盟約之載書及其禮儀北面詔明神旣盟則藏之言北面詔明神則明神有象也象者其方明乎及盟時又加於壇上乃以載辭告焉詛祝掌其祝號}
+  - {type: punctuation, offset: 800, content: ，, id: KR1d0026_CHANT_010-bkkpn240}
+  - {type: 'tls:seg', offset: 800, content: '', id: KR1d0026_CHANT_010-9a.36}
+  - {type: punctuation, offset: 809, content: ，, id: KR1d0026_CHANT_010-bkkpn241}
+  - {type: 'tls:seg', offset: 809, content: '', id: KR1d0026_CHANT_010-9a.37}
+  - {type: punctuation, offset: 818, content: 。, id: KR1d0026_CHANT_010-bkkpn242}
+  - {type: xml-element, offset: 818, content: '', id: KR1d0026_CHANT_010-bkkxmlele28}
+  - {type: xml-element, offset: 818, content: '', id: KR1d0026_CHANT_010-bkkxmlele29}
+  - {type: 'tls:seg', offset: 818, content: '', id: KR1d0026_CHANT_010-10a.1}
+  - {type: 'tls:seg', offset: 818, content: '', id: KR1d0026_CHANT_010-10a.2}
+  - {type: variant, offset: 818, length: 0, content: '', SBCK: 此謂㑹同以夏冬秋者也變拜言禮者客祀也禮月於北郊者月太隂之精以爲地神也盟神必云日月山川焉者尚著明也詩曰謂子不信有如皦日春秋傳曰縱子忘之山川神祗其忘諸乎比皆用明神爲信也}
+  - {type: page-break, offset: 818, content: '', id: KR1d0026_SBCK_010-8b}
+  - {type: variant, offset: 818, length: 0, content: '', krp: 此謂㑹同以夏冬秋者也變拜言禮者客祀也禮月於北郊者月太隂之精以爲地神也盟神必云日月山川焉者尚著明也詩曰謂子不信有如皦日春秋傳曰縱子忘之山川神祗其忘諸乎比皆用明神爲信也}
+  - {type: punctuation, offset: 820, content: ，, id: KR1d0026_CHANT_010-bkkpn243}
+  - {type: 'tls:seg', offset: 820, content: '', id: KR1d0026_CHANT_010-10a.3}
+  - {type: punctuation, offset: 822, content: ；, id: KR1d0026_CHANT_010-bkkpn244}
+  - {type: 'tls:seg', offset: 822, content: '', id: KR1d0026_CHANT_010-10a.4}
+  - {type: punctuation, offset: 824, content: 、, id: KR1d0026_CHANT_010-bkkpn245}
+  - {type: punctuation, offset: 826, content: ，, id: KR1d0026_CHANT_010-bkkpn246}
+  - {type: 'tls:seg', offset: 826, content: '', id: KR1d0026_CHANT_010-10a.5}
+  - {type: punctuation, offset: 827, content: ；, id: KR1d0026_CHANT_010-bkkpn247}
+  - {type: 'tls:seg', offset: 827, content: '', id: KR1d0026_CHANT_010-10a.6}
+  - {type: punctuation, offset: 829, content: ，, id: KR1d0026_CHANT_010-bkkpn248}
+  - {type: 'tls:seg', offset: 829, content: '', id: KR1d0026_CHANT_010-10a.7}
+  - {type: punctuation, offset: 830, content: ；, id: KR1d0026_CHANT_010-bkkpn249}
+  - {type: 'tls:seg', offset: 830, content: '', id: KR1d0026_CHANT_010-10a.8}
+  - {type: punctuation, offset: 832, content: ，, id: KR1d0026_CHANT_010-bkkpn250}
+  - {type: 'tls:seg', offset: 832, content: '', id: KR1d0026_CHANT_010-10a.9}
+  - {type: punctuation, offset: 833, content: 。, id: KR1d0026_CHANT_010-bkkpn251}
+  - {type: xml-element, offset: 833, content: '', id: KR1d0026_CHANT_010-bkkxmlele30}
+  - {type: xml-element, offset: 833, content: '', id: KR1d0026_CHANT_010-bkkxmlele31}
+  - {type: 'tls:seg', offset: 833, content: '', id: KR1d0026_CHANT_010-10a.10}
+  - {type: variant, offset: 833, length: 1, content: 記, SBCK: 升沉必就祭者也就祭則是謂王廵守及諸侯之盟祭也其盟愒其著明者燔柴升沉瘞祭禮終矣備矣郊特牲曰郊之祭也迎長日之至也大報天而主日也宗伯職曰以實柴祀日月星辰則燔柴祭天謂祭日也柴爲祭日則祭地􅄟者祭月也日月而云天地靈之也王制曰王廵守至於岱宗柴是王廵守之盟其神主日也春秋傳曰晉文公爲踐土之盟而傳云山川之神是諸侯之盟其神主山川也月者太隂之精上爲天使臣道莫貴焉是王官之伯㑹諸侯而盟其神主月與古文􅄟作殪設}
+  - {type: variant, offset: 833, length: 1, content: 記, krp: 升沉必就祭者也就祭則是謂王廵守及諸侯之盟祭也其盟愒其著明者燔柴升沉瘞祭禮終矣備矣郊特牲曰郊之祭也迎長日之至也大報天而主日也宗伯職曰以實柴祀日月星辰則燔柴祭天謂祭日也柴爲祭日則祭地瘞者祭月也日月而云天地靈之也王制曰王廵守至於岱宗柴是王廵守之盟其神主日也春秋傳曰晉文公爲踐土之盟而傳云山川之神是諸侯之盟其神主山川也月者太隂之精上爲天使臣道莫貴焉是王官之伯㑹諸侯而盟其神主月與古文瘞作殪設}
+  - {type: punctuation, offset: 834, content: ：, id: KR1d0026_CHANT_010-bkkpn252}
+  - {type: xml-element, offset: 834, content: '', id: KR1d0026_CHANT_010-bkkxmlele32}
+  - {type: xml-element, offset: 834, content: '', id: KR1d0026_CHANT_010-bkkxmlele33}
+  - {type: 'tls:seg', offset: 834, content: '', id: KR1d0026_CHANT_010-11a.1}
+  - {type: 'tls:seg', offset: 834, content: '', id: KR1d0026_CHANT_010-11a.2}
+  - {type: variant, offset: 835, length: 1, content: 俟, SBCK: 侯}
+  - {type: variant, offset: 835, length: 1, content: 俟, krp: 侯}
+  - {type: punctuation, offset: 839, content: 。, id: KR1d0026_CHANT_010-bkkpn253}
+  - {type: xml-element, offset: 839, content: '', id: KR1d0026_CHANT_010-bkkxmlele34}
+  - {type: xml-element, offset: 839, content: '', id: KR1d0026_CHANT_010-bkkxmlele35}
+  - {type: 'tls:seg', offset: 839, content: '', id: KR1d0026_CHANT_010-11a.3}
+  - {type: variant, offset: 839, length: 0, content: '', SBCK: 王即席乃設之也東箱東夾之前相翔待事之處}
+  - {type: variant, offset: 839, length: 0, content: '', krp: 王即席乃設之也東箱東夾之前相翔待事之處}
+  - {type: punctuation, offset: 845, content: 。, id: KR1d0026_CHANT_010-bkkpn254}
+  - {type: xml-element, offset: 845, content: '', id: KR1d0026_CHANT_010-bkkxmlele36}
+  - {type: xml-element, offset: 845, content: '', id: KR1d0026_CHANT_010-bkkxmlele37}
+  - {type: 'tls:seg', offset: 845, content: '', id: KR1d0026_CHANT_010-11a.4}
+  - {type: variant, offset: 845, length: 0, content: '', SBCK: 左旁與巳同曰偏同姓金路異姓象路四衛革輅蕃國木輅駕之與王同謂之偏駕不入王門乗墨車以朝是也偏駕之車舎之於館與}
+  - {type: page-break, offset: 845, content: '', id: KR1d0026_SBCK_010-9a}
+  - {type: variant, offset: 845, length: 0, content: '', krp: 左旁與巳同曰偏同姓金路異姓象路四衛革輅蕃國木輅駕之與王同謂之偏駕不入王門乗墨車以朝是也偏駕之車舎之於館與}
+  - {type: punctuation, offset: 850, content: 。, id: KR1d0026_CHANT_010-bkkpn255}
+  - {type: xml-element, offset: 850, content: '', id: KR1d0026_CHANT_010-bkkxmlele38}
+  - {type: variant, offset: 850, length: 0, content: '', SBCK: 謂釋於地也儀禮卷第十經八百四十四字注二千六百三十一字}
+  - {type: page-break, offset: 850, content: '', id: KR1d0026_SBCK_010-9b}
+  - {type: variant, offset: 850, length: 0, content: '', krp: 謂釋於地也儀禮卷第十經八百四十四字注二千六百三十一字}
+  back: []
+hash: sha256:b67b6d5842ab36e90e7cf2caa1a79ad79586ea4c44cbb6745996f1fffbd9a47c
