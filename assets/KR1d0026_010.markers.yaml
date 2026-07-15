@@ -24,14 +24,17 @@ markers:
   - {type: 'tls:seg', offset: 10, content: '', id: KR1d0026_CHANT_010-1a.4}
   - {type: punctuation, offset: 13, content: ，, id: KR1d0026_CHANT_010-bkkpn4}
   - {type: 'tls:seg', offset: 13, content: '', id: KR1d0026_CHANT_010-1a.5}
+  - {type: substitution, offset: 17, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: punctuation, offset: 21, content: 。, id: KR1d0026_CHANT_010-bkkpn5}
   - {type: 'tls:seg', offset: 21, content: '', id: KR1d0026_CHANT_010-1a.6}
+  - {type: substitution, offset: 25, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: punctuation, offset: 32, content: ，, id: KR1d0026_CHANT_010-bkkpn6}
   - {type: 'tls:seg', offset: 32, content: '', id: KR1d0026_CHANT_010-1a.7}
   - {type: punctuation, offset: 34, content: 。, id: KR1d0026_CHANT_010-bkkpn7}
   - {type: 'tls:seg', offset: 34, content: '', id: KR1d0026_CHANT_010-1a.8}
   - {type: variant, offset: 34, length: 0, content: '', SBCK: 郊謂近郊去王城五十里小行人職曰凡諸侯入王則迎勞于畿則郊勞者大行人也皮弁者天子之朝朝服也璧無束帛者天子之玉尊也不言諸侯言侯氏者明國殊舎異禮不凡之也郊舎狹寡爲帷宫以受勞掌舎職曰爲帷官設旌門}
   - {type: variant, offset: 34, length: 0, content: '', krp: 郊謂近郊去王城五十里小行人職曰凡諸侯入王則迎勞于畿則郊勞者大行人也皮弁者天子之朝朝服也璧無束帛者天子之玉尊也不言諸侯言侯氏者明國殊舎異禮不凡之也郊舎狹寡爲帷宫以受勞掌舎職曰爲帷官設旌門}
+  - {type: substitution, offset: 37, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 39, content: ，, id: KR1d0026_CHANT_010-bkkpn8}
   - {type: 'tls:seg', offset: 39, content: '', id: KR1d0026_CHANT_010-1a.9}
   - {type: punctuation, offset: 42, content: ，, id: KR1d0026_CHANT_010-bkkpn9}
@@ -85,6 +88,7 @@ markers:
   - {type: 'tls:seg', offset: 118, content: '', id: KR1d0026_CHANT_010-1a.31}
   - {type: punctuation, offset: 122, content: ，, id: KR1d0026_CHANT_010-bkkpn31}
   - {type: 'tls:seg', offset: 122, content: '', id: KR1d0026_CHANT_010-1a.32}
+  - {type: substitution, offset: 122, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 124, content: 。, id: KR1d0026_CHANT_010-bkkpn32}
   - {type: 'tls:seg', offset: 124, content: '', id: KR1d0026_CHANT_010-1a.33}
   - {type: variant, offset: 126, length: 0, content: '', SBCK: 先升賔禮綂焉几者安賔所以崇優厚也上介出止使者則巳布席也侯氏}
@@ -194,6 +198,7 @@ markers:
   - {type: variant, offset: 244, length: 1, content: 乘, krp: 將覲質明時也禪冕者衣禆衣而冠冕也禆之爲言埤也天子六服大裘爲上其餘爲禆以事尊卑服之而諸侯亦服焉上公衮無升龍侯伯鷩子男毳孤絺卿大夫玄此差司服所掌也禰謂行主遷主矣而云禰親之也釋幣者告將覲也其釋幣如聘大夫將受命釋幣于禰之禮旣則祝藏其幣歸乃埋之於祧西階之東乗}
   - {type: punctuation, offset: 247, content: ，, id: KR1d0026_CHANT_010-bkkpn67}
   - {type: 'tls:seg', offset: 247, content: '', id: KR1d0026_CHANT_010-3a.11}
+  - {type: substitution, offset: 249, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17702}}
   - {type: punctuation, offset: 250, content: 、, id: KR1d0026_CHANT_010-bkkpn68}
   - {type: punctuation, offset: 252, content: ，, id: KR1d0026_CHANT_010-bkkpn69}
   - {type: 'tls:seg', offset: 252, content: '', id: KR1d0026_CHANT_010-3a.12}
@@ -212,6 +217,7 @@ markers:
   - {type: variant, offset: 265, length: 1, content: 戶, krp: 戸}
   - {type: variant, offset: 268, length: 1, content: 閒, SBCK: 間}
   - {type: variant, offset: 268, length: 1, content: 閒, krp: 間}
+  - {type: substitution, offset: 268, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 269, content: ，, id: KR1d0026_CHANT_010-bkkpn73}
   - {type: 'tls:seg', offset: 269, content: '', id: KR1d0026_CHANT_010-4a.3}
   - {type: punctuation, offset: 272, content: 。, id: KR1d0026_CHANT_010-bkkpn74}
@@ -241,10 +247,12 @@ markers:
   - {type: 'tls:seg', offset: 292, content: '', id: KR1d0026_CHANT_010-4a.10}
   - {type: punctuation, offset: 296, content: ，, id: KR1d0026_CHANT_010-bkkpn82}
   - {type: 'tls:seg', offset: 296, content: '', id: KR1d0026_CHANT_010-4a.11}
+  - {type: substitution, offset: 296, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 301, content: 。, id: KR1d0026_CHANT_010-bkkpn83}
   - {type: 'tls:seg', offset: 301, content: '', id: KR1d0026_CHANT_010-4a.12}
   - {type: punctuation, offset: 305, content: ，, id: KR1d0026_CHANT_010-bkkpn84}
   - {type: 'tls:seg', offset: 305, content: '', id: KR1d0026_CHANT_010-4a.13}
+  - {type: substitution, offset: 305, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 311, content: 。, id: KR1d0026_CHANT_010-bkkpn85}
   - {type: punctuation, offset: 311, content: 」, id: KR1d0026_CHANT_010-bkkpn86}
   - {type: 'tls:seg', offset: 311, content: '', id: KR1d0026_CHANT_010-4a.14}
@@ -320,6 +328,7 @@ markers:
   - {type: punctuation, offset: 397, content: ：, id: KR1d0026_CHANT_010-bkkpn114}
   - {type: 'tls:seg', offset: 397, content: '', id: KR1d0026_CHANT_010-5a.12}
   - {type: punctuation, offset: 397, content: 「, id: KR1d0026_CHANT_010-bkkpn115}
+  - {type: substitution, offset: 397, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: variant, offset: 401, length: 0, content: '', SBCK: 受之亦言王欲親}
   - {type: variant, offset: 401, length: 0, content: '', krp: 受之亦言王欲親}
   - {type: punctuation, offset: 403, content: 。, id: KR1d0026_CHANT_010-bkkpn116}
@@ -458,6 +467,7 @@ markers:
   - {type: 'tls:seg', offset: 584, content: '', id: KR1d0026_CHANT_010-7a.20}
   - {type: variant, offset: 587, length: 1, content: 閒, SBCK: 間}
   - {type: variant, offset: 587, length: 1, content: 閒, krp: 間}
+  - {type: substitution, offset: 587, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 594, content: ，, id: KR1d0026_CHANT_010-bkkpn172}
   - {type: 'tls:seg', offset: 594, content: '', id: KR1d0026_CHANT_010-7a.21}
   - {type: variant, offset: 594, length: 0, content: '', SBCK: 受命}
@@ -591,6 +601,7 @@ markers:
   - {type: 'tls:seg', offset: 741, content: '', id: KR1d0026_CHANT_010-9a.24}
   - {type: variant, offset: 741, length: 0, content: '', SBCK: 六色象其神六玉以禮之上宜以蒼璧下宜以黃琮而不以者則上下之神非天地之至貴者也設玉者刻其木而著之}
   - {type: variant, offset: 741, length: 0, content: '', krp: 六色象其神六玉以禮之上宜以蒼璧下宜以黃琮而不以者則上下之神非天地之至貴者也設玉者刻其木而著之}
+  - {type: substitution, offset: 748, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17702}}
   - {type: punctuation, offset: 749, content: ，, id: KR1d0026_CHANT_010-bkkpn223}
   - {type: 'tls:seg', offset: 749, content: '', id: KR1d0026_CHANT_010-9a.25}
   - {type: variant, offset: 751, length: 1, content: 宮, SBCK: 宫}
@@ -605,6 +616,7 @@ markers:
   - {type: punctuation, offset: 758, content: 、, id: KR1d0026_CHANT_010-bkkpn229}
   - {type: punctuation, offset: 759, content: ，, id: KR1d0026_CHANT_010-bkkpn230}
   - {type: 'tls:seg', offset: 759, content: '', id: KR1d0026_CHANT_010-9a.28}
+  - {type: substitution, offset: 762, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17702}}
   - {type: punctuation, offset: 765, content: 。, id: KR1d0026_CHANT_010-bkkpn231}
   - {type: 'tls:seg', offset: 765, content: '', id: KR1d0026_CHANT_010-9a.29}
   - {type: variant, offset: 765, length: 0, content: '', SBCK: 置於宮者建之豫爲其君見王之位也諸公中階之前北面東上諸侯東階之東西面北上諸伯西階之西東面北上諸子門東北面東上諸男門西北面東上尚左建旂公東上侯先伯伯先子子先男而位皆上東方也諸侯入壝門或左或右各就其旂而立王降階南郷見之三揖土揖庶姓時揖異姓天揖同姓見揖位乃定古文尚作上}
@@ -620,6 +632,7 @@ markers:
   - {type: 'tls:seg', offset: 772, content: '', id: KR1d0026_CHANT_010-9a.31}
   - {type: variant, offset: 774, length: 1, content: 旂, SBCK: 斾}
   - {type: variant, offset: 774, length: 1, content: 旂, krp: 斾}
+  - {type: substitution, offset: 774, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17702}}
   - {type: punctuation, offset: 775, content: ，, id: KR1d0026_CHANT_010-bkkpn234}
   - {type: 'tls:seg', offset: 775, content: '', id: KR1d0026_CHANT_010-9a.32}
   - {type: punctuation, offset: 778, content: 、, id: KR1d0026_CHANT_010-bkkpn235}
@@ -692,4 +705,4 @@ markers:
   - {type: page-break, offset: 850, content: '', id: KR1d0026_SBCK_010-9b}
   - {type: variant, offset: 850, length: 0, content: '', krp: 謂釋於地也儀禮卷第十經八百四十四字注二千六百三十一字}
   back: []
-hash: sha256:1becba0d5c70c8f371956c6a1161a8442290b90ded613f890195faa7eac426b4
+hash: sha256:234ee7f8e8b3535e81db98583c938650509b29b1f5b4ac9fa68e861a83dda6a2
