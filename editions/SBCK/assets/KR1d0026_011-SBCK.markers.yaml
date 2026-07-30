@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR1d0026/SBCK/v1/markers/11
 seq: 11
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR1d0026_SBCK_011-bkkkrnewl1}
@@ -3006,24 +3006,23 @@ markers:
   - {type: punctuation, offset: 10468, content: (, id: KR1d0026_SBCK_011-bkkpn1008}
   - {type: 'voice:problem', offset: 10468, length: 0, id: KR1d0026_SBCK_011-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10468}
   - {type: punctuation, offset: 10472, content: /, id: KR1d0026_SBCK_011-bkkpn1009}
-  body:
-  - {type: punctuation, offset: 0, content: ), id: KR1d0026_SBCK_011-bkkpn1}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: punctuation, offset: 10475, content: ), id: KR1d0026_SBCK_011-bkkpn1}
+  - {type: 'kr:newline', offset: 10475, content: '
 
       ', id: KR1d0026_SBCK_011-bkkkrnewl1}
-  - {type: line-break, offset: 0, content: '', id: KR1d0026_SBCK_011-28b04}
-  - {type: indent, offset: 0, content: 　, id: KR1d0026_SBCK_011-bkkind1}
-  - {type: 'voice:problem', offset: 0, length: 0, id: KR1d0026_SBCK_011-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
-  - {type: 'kr:newline', offset: 6, content: '
+  - {type: line-break, offset: 10475, content: '', id: KR1d0026_SBCK_011-28b04}
+  - {type: indent, offset: 10475, content: 　, id: KR1d0026_SBCK_011-bkkind1}
+  - {type: 'voice:problem', offset: 10475, length: 0, id: KR1d0026_SBCK_011-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
+  - {type: 'kr:newline', offset: 10481, content: '
 
       ', id: KR1d0026_SBCK_011-bkkkrnewl2}
-  - {type: line-break, offset: 6, content: '', id: KR1d0026_SBCK_011-28b05}
-  - {type: punctuation, offset: 6, content: (, id: KR1d0026_SBCK_011-bkkpn2}
-  - {type: punctuation, offset: 15, content: /, id: KR1d0026_SBCK_011-bkkpn3}
-  - {type: punctuation, offset: 24, content: ), id: KR1d0026_SBCK_011-bkkpn4}
-  - {type: paragraph-break, offset: 24, content: '
+  - {type: line-break, offset: 10481, content: '', id: KR1d0026_SBCK_011-28b05}
+  - {type: punctuation, offset: 10481, content: (, id: KR1d0026_SBCK_011-bkkpn2}
+  - {type: punctuation, offset: 10490, content: /, id: KR1d0026_SBCK_011-bkkpn3}
+  - {type: punctuation, offset: 10499, content: ), id: KR1d0026_SBCK_011-bkkpn4}
+  - {type: paragraph-break, offset: 10499, content: '
 
 
       ', id: KR1d0026_SBCK_011-bkkp1}
   back: []
-hash: sha256:baea949153e9d90ebc85231e511bff1aec541fe1cdeec992fdbbd7caf12c9c27
+hash: sha256:af8dbcfdf5ef873e953707906a0bc2fa796c3345a961842a292c3d122528a335
